@@ -1,0 +1,10 @@
+Metric,Before cleaning,After cleaning
+Rows,421,371
+Columns,10,15
+Aggregate (total) rows,50,0
+Numeric columns stored as text,5,0
+Distinct station names (data rows),69,54
+Missing Sub_division,240,5
+Missing Killed/Injured,133,103
+Rows failing logic checks,not checked,0
+Derived features,0,4

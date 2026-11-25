@@ -1,0 +1,1023 @@
+{
+  "inventory": [
+    {
+      "dataset": "btp_2018_2020",
+      "file": "btp_station_2018_2020.csv",
+      "rows": 45,
+      "columns": 17
+    },
+    {
+      "dataset": "btp_2021_2022",
+      "file": "btp_station_2020_2022.csv",
+      "rows": 45,
+      "columns": 12
+    },
+    {
+      "dataset": "btp_2023",
+      "file": "btp_station_2023.csv",
+      "rows": 63,
+      "columns": 8
+    },
+    {
+      "dataset": "btp_2024",
+      "file": "btp_station_2024.csv",
+      "rows": 65,
+      "columns": 6
+    },
+    {
+      "dataset": "btp_2025",
+      "file": "btp_station_2025.csv",
+      "rows": 68,
+      "columns": 6
+    },
+    {
+      "dataset": "city_annual",
+      "file": "blr_crashes_2007_2025.csv",
+      "rows": 19,
+      "columns": 5
+    },
+    {
+      "dataset": "ka_districts",
+      "file": "ka_district_2020_2023.csv",
+      "rows": 39,
+      "columns": 10
+    },
+    {
+      "dataset": "india_cities",
+      "file": "india_large_cities_2024.csv",
+      "rows": 51,
+      "columns": 14
+    }
+  ],
+  "header_issues": [
+    "btp_2018_2020: '2020 - Fatal '",
+    "btp_2018_2020: '2020 - Total Cases '"
+  ],
+  "agg_rows_removed": 50,
+  "names_harmonised": 16,
+  "zone_moved": 22,
+  "missing_table": [
+    {
+      "column": "Fatal",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "Killed",
+      "missing_count": 103,
+      "missing_pct": 27.76
+    },
+    {
+      "column": "Non_Fatal",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "Injured",
+      "missing_count": 103,
+      "missing_pct": 27.76
+    },
+    {
+      "column": "Total",
+      "missing_count": 0,
+      "missing_pct": 0.0
+    },
+    {
+      "column": "Sub_division",
+      "missing_count": 5,
+      "missing_pct": 1.35
+    }
+  ],
+  "exact_dups": 0,
+  "key_dups": 0,
+  "bad_total": 0,
+  "bad_killed": 0,
+  "bad_total_rows": [],
+  "recon": [
+    {
+      "Year": 2018,
+      "Fatal": 663,
+      "Total": 4611,
+      "Fatal_GrandTotalRow": 663,
+      "Total_GrandTotalRow": 4611,
+      "Fatal_CityTable": 661,
+      "Total_CityTable": 4611,
+      "Total_diff_vs_city": 0
+    },
+    {
+      "Year": 2019,
+      "Fatal": 746,
+      "Total": 4684,
+      "Fatal_GrandTotalRow": 746,
+      "Total_GrandTotalRow": 4684,
+      "Fatal_CityTable": 744,
+      "Total_CityTable": 4688,
+      "Total_diff_vs_city": -4
+    },
+    {
+      "Year": 2020,
+      "Fatal": 622,
+      "Total": 3236,
+      "Fatal_GrandTotalRow": 622,
+      "Total_GrandTotalRow": 3236,
+      "Fatal_CityTable": 622,
+      "Total_CityTable": 3236,
+      "Total_diff_vs_city": 0
+    },
+    {
+      "Year": 2021,
+      "Fatal": 618,
+      "Total": 3211,
+      "Fatal_GrandTotalRow": 618,
+      "Total_GrandTotalRow": 3211,
+      "Fatal_CityTable": 621,
+      "Total_CityTable": 3213,
+      "Total_diff_vs_city": -2
+    },
+    {
+      "Year": 2022,
+      "Fatal": 751,
+      "Total": 3823,
+      "Fatal_GrandTotalRow": 751,
+      "Total_GrandTotalRow": 3823,
+      "Fatal_CityTable": 752,
+      "Total_CityTable": 3822,
+      "Total_diff_vs_city": 1
+    },
+    {
+      "Year": 2023,
+      "Fatal": 882,
+      "Total": 4974,
+      "Fatal_GrandTotalRow": 882,
+      "Total_GrandTotalRow": 4974,
+      "Fatal_CityTable": 882,
+      "Total_CityTable": 4974,
+      "Total_diff_vs_city": 0
+    },
+    {
+      "Year": 2024,
+      "Fatal": 852,
+      "Total": 4800,
+      "Fatal_GrandTotalRow": 852,
+      "Total_GrandTotalRow": 4800,
+      "Fatal_CityTable": 869,
+      "Total_CityTable": 4769,
+      "Total_diff_vs_city": 31
+    },
+    {
+      "Year": 2025,
+      "Fatal": 807,
+      "Total": 4890,
+      "Fatal_GrandTotalRow": 807,
+      "Total_GrandTotalRow": 4890,
+      "Fatal_CityTable": 843,
+      "Total_CityTable": 4893,
+      "Total_diff_vs_city": -3
+    }
+  ],
+  "clean_shape": [
+    371,
+    16
+  ],
+  "n_stations": 54,
+  "stations_per_year": {
+    "2018": 44,
+    "2019": 44,
+    "2020": 44,
+    "2021": 44,
+    "2022": 44,
+    "2023": 48,
+    "2024": 50,
+    "2025": 53
+  },
+  "outliers": [
+    {
+      "Year": 2018,
+      "Station": "K R Puram",
+      "Zone": "East",
+      "Total": 283,
+      "IQR_upper_fence": 297.1,
+      "Z_score": 2.86,
+      "IQR_outlier": false,
+      "Z_outlier(>2.5)": true
+    },
+    {
+      "Year": 2019,
+      "Station": "K R Puram",
+      "Zone": "East",
+      "Total": 269,
+      "IQR_upper_fence": 249.8,
+      "Z_score": 2.59,
+      "IQR_outlier": true,
+      "Z_outlier(>2.5)": true
+    },
+    {
+      "Year": 2019,
+      "Station": "Yalahanka",
+      "Zone": "North",
+      "Total": 260,
+      "IQR_upper_fence": 249.8,
+      "Z_score": 2.45,
+      "IQR_outlier": true,
+      "Z_outlier(>2.5)": false
+    },
+    {
+      "Year": 2023,
+      "Station": "K R Puram",
+      "Zone": "East",
+      "Total": 254,
+      "IQR_upper_fence": 204.9,
+      "Z_score": 2.25,
+      "IQR_outlier": true,
+      "Z_outlier(>2.5)": false
+    },
+    {
+      "Year": 2023,
+      "Station": "Whitefield",
+      "Zone": "East",
+      "Total": 223,
+      "IQR_upper_fence": 204.9,
+      "Z_score": 1.78,
+      "IQR_outlier": true,
+      "Z_outlier(>2.5)": false
+    },
+    {
+      "Year": 2023,
+      "Station": "Int. Airport",
+      "Zone": "North",
+      "Total": 232,
+      "IQR_upper_fence": 204.9,
+      "Z_score": 1.92,
+      "IQR_outlier": true,
+      "Z_outlier(>2.5)": false
+    },
+    {
+      "Year": 2023,
+      "Station": "Yalahanka",
+      "Zone": "North",
+      "Total": 236,
+      "IQR_upper_fence": 204.9,
+      "Z_score": 1.98,
+      "IQR_outlier": true,
+      "Z_outlier(>2.5)": false
+    },
+    {
+      "Year": 2023,
+      "Station": "Kamakshipalya",
+      "Zone": "West",
+      "Total": 241,
+      "IQR_upper_fence": 204.9,
+      "Z_score": 2.05,
+      "IQR_outlier": true,
+      "Z_outlier(>2.5)": false
+    },
+    {
+      "Year": 2023,
+      "Station": "Kengeri",
+      "Zone": "West",
+      "Total": 279,
+      "IQR_upper_fence": 204.9,
+      "Z_score": 2.62,
+      "IQR_outlier": true,
+      "Z_outlier(>2.5)": true
+    },
+    {
+      "Year": 2024,
+      "Station": "K R Puram",
+      "Zone": "East",
+      "Total": 241,
+      "IQR_upper_fence": 232.4,
+      "Z_score": 2.57,
+      "IQR_outlier": true,
+      "Z_outlier(>2.5)": true
+    },
+    {
+      "Year": 2024,
+      "Station": "Int. Airport",
+      "Zone": "North",
+      "Total": 240,
+      "IQR_upper_fence": 232.4,
+      "Z_score": 2.56,
+      "IQR_outlier": true,
+      "Z_outlier(>2.5)": true
+    },
+    {
+      "Year": 2024,
+      "Station": "Yalahanka",
+      "Zone": "North",
+      "Total": 242,
+      "IQR_upper_fence": 232.4,
+      "Z_score": 2.59,
+      "IQR_outlier": true,
+      "Z_outlier(>2.5)": true
+    },
+    {
+      "Year": 2025,
+      "Station": "K R Puram",
+      "Zone": "East",
+      "Total": 267,
+      "IQR_upper_fence": 220.5,
+      "Z_score": 2.91,
+      "IQR_outlier": true,
+      "Z_outlier(>2.5)": true
+    },
+    {
+      "Year": 2025,
+      "Station": "Yalahanka",
+      "Zone": "North",
+      "Total": 257,
+      "IQR_upper_fence": 220.5,
+      "Z_score": 2.74,
+      "IQR_outlier": true,
+      "Z_outlier(>2.5)": true
+    }
+  ],
+  "outlier_station_counts": {
+    "K R Puram": 5,
+    "Yalahanka": 4,
+    "Int. Airport": 2,
+    "Whitefield": 1,
+    "Kamakshipalya": 1,
+    "Kengeri": 1
+  },
+  "temporal_anomalies": [
+    {
+      "Year": 2021,
+      "Station": "Indiranagar",
+      "Total": 32,
+      "Station_median": 79.5,
+      "Ratio_to_median": 0.4
+    },
+    {
+      "Year": 2021,
+      "Station": "K R Puram",
+      "Total": 64,
+      "Station_median": 247.5,
+      "Ratio_to_median": 0.26
+    }
+  ],
+  "city": [
+    {
+      "Year": 2007,
+      "Fatal": 957,
+      "Killed": 981,
+      "Non_Fatal": 7469,
+      "Total": 8426,
+      "Fatality_Rate_pct": 11.36,
+      "Non_Fatal_z": 2.08,
+      "YoY_change_pct": null
+    },
+    {
+      "Year": 2008,
+      "Fatal": 864,
+      "Killed": 892,
+      "Non_Fatal": 6908,
+      "Total": 7772,
+      "Fatality_Rate_pct": 11.12,
+      "Non_Fatal_z": 1.66,
+      "YoY_change_pct": -7.8
+    },
+    {
+      "Year": 2009,
+      "Fatal": 737,
+      "Killed": 761,
+      "Non_Fatal": 6138,
+      "Total": 6875,
+      "Fatality_Rate_pct": 10.72,
+      "Non_Fatal_z": 1.09,
+      "YoY_change_pct": -11.5
+    },
+    {
+      "Year": 2010,
+      "Fatal": 816,
+      "Killed": 858,
+      "Non_Fatal": 5667,
+      "Total": 6483,
+      "Fatality_Rate_pct": 12.59,
+      "Non_Fatal_z": 0.74,
+      "YoY_change_pct": -5.7
+    },
+    {
+      "Year": 2011,
+      "Fatal": 727,
+      "Killed": 762,
+      "Non_Fatal": 5297,
+      "Total": 6024,
+      "Fatality_Rate_pct": 12.07,
+      "Non_Fatal_z": 0.47,
+      "YoY_change_pct": -7.1
+    },
+    {
+      "Year": 2012,
+      "Fatal": 740,
+      "Killed": 760,
+      "Non_Fatal": 4767,
+      "Total": 5507,
+      "Fatality_Rate_pct": 13.44,
+      "Non_Fatal_z": 0.08,
+      "YoY_change_pct": -8.6
+    },
+    {
+      "Year": 2013,
+      "Fatal": 737,
+      "Killed": 771,
+      "Non_Fatal": 4493,
+      "Total": 5230,
+      "Fatality_Rate_pct": 14.09,
+      "Non_Fatal_z": -0.12,
+      "YoY_change_pct": -5.0
+    },
+    {
+      "Year": 2014,
+      "Fatal": 711,
+      "Killed": 737,
+      "Non_Fatal": 4293,
+      "Total": 5004,
+      "Fatality_Rate_pct": 14.21,
+      "Non_Fatal_z": -0.27,
+      "YoY_change_pct": -4.3
+    },
+    {
+      "Year": 2015,
+      "Fatal": 714,
+      "Killed": 740,
+      "Non_Fatal": 4114,
+      "Total": 4828,
+      "Fatality_Rate_pct": 14.79,
+      "Non_Fatal_z": -0.4,
+      "YoY_change_pct": -3.5
+    },
+    {
+      "Year": 2016,
+      "Fatal": 754,
+      "Killed": 793,
+      "Non_Fatal": 6752,
+      "Total": 7506,
+      "Fatality_Rate_pct": 10.05,
+      "Non_Fatal_z": 1.55,
+      "YoY_change_pct": 55.5
+    },
+    {
+      "Year": 2017,
+      "Fatal": 609,
+      "Killed": 642,
+      "Non_Fatal": 4455,
+      "Total": 5064,
+      "Fatality_Rate_pct": 12.03,
+      "Non_Fatal_z": -0.15,
+      "YoY_change_pct": -32.5
+    },
+    {
+      "Year": 2018,
+      "Fatal": 661,
+      "Killed": 686,
+      "Non_Fatal": 3950,
+      "Total": 4611,
+      "Fatality_Rate_pct": 14.34,
+      "Non_Fatal_z": -0.53,
+      "YoY_change_pct": -8.9
+    },
+    {
+      "Year": 2019,
+      "Fatal": 744,
+      "Killed": 766,
+      "Non_Fatal": 3944,
+      "Total": 4688,
+      "Fatality_Rate_pct": 15.87,
+      "Non_Fatal_z": -0.53,
+      "YoY_change_pct": 1.7
+    },
+    {
+      "Year": 2020,
+      "Fatal": 622,
+      "Killed": 647,
+      "Non_Fatal": 2614,
+      "Total": 3236,
+      "Fatality_Rate_pct": 19.22,
+      "Non_Fatal_z": -1.51,
+      "YoY_change_pct": -31.0
+    },
+    {
+      "Year": 2021,
+      "Fatal": 621,
+      "Killed": 654,
+      "Non_Fatal": 2592,
+      "Total": 3213,
+      "Fatality_Rate_pct": 19.33,
+      "Non_Fatal_z": -1.53,
+      "YoY_change_pct": -0.7
+    },
+    {
+      "Year": 2022,
+      "Fatal": 752,
+      "Killed": 772,
+      "Non_Fatal": 3070,
+      "Total": 3822,
+      "Fatality_Rate_pct": 19.68,
+      "Non_Fatal_z": -1.18,
+      "YoY_change_pct": 19.0
+    },
+    {
+      "Year": 2023,
+      "Fatal": 882,
+      "Killed": 910,
+      "Non_Fatal": 4092,
+      "Total": 4974,
+      "Fatality_Rate_pct": 17.73,
+      "Non_Fatal_z": -0.42,
+      "YoY_change_pct": 30.1
+    },
+    {
+      "Year": 2024,
+      "Fatal": 869,
+      "Killed": 894,
+      "Non_Fatal": 3900,
+      "Total": 4769,
+      "Fatality_Rate_pct": 18.22,
+      "Non_Fatal_z": -0.56,
+      "YoY_change_pct": -4.1
+    },
+    {
+      "Year": 2025,
+      "Fatal": 843,
+      "Killed": 878,
+      "Non_Fatal": 4050,
+      "Total": 4893,
+      "Fatality_Rate_pct": 17.23,
+      "Non_Fatal_z": -0.45,
+      "YoY_change_pct": 2.6
+    }
+  ],
+  "desc": [
+    {
+      "variable": "Fatal",
+      "count": 371.0,
+      "mean": 16.01,
+      "std": 12.76,
+      "min": 0.0,
+      "25%": 6.0,
+      "50%": 12.0,
+      "75%": 22.0,
+      "max": 60.0,
+      "median": 12.0,
+      "skew": 1.24,
+      "kurtosis": 1.09,
+      "CV_pct": 79.67
+    },
+    {
+      "variable": "Killed",
+      "count": 268.0,
+      "mean": 16.54,
+      "std": 13.43,
+      "min": 1.0,
+      "25%": 6.0,
+      "50%": 12.0,
+      "75%": 23.25,
+      "max": 63.0,
+      "median": 12.0,
+      "skew": 1.21,
+      "kurtosis": 0.87,
+      "CV_pct": 81.19
+    },
+    {
+      "variable": "Non_Fatal",
+      "count": 371.0,
+      "mean": 76.25,
+      "std": 48.46,
+      "min": 5.0,
+      "25%": 40.0,
+      "50%": 64.0,
+      "75%": 103.0,
+      "max": 241.0,
+      "median": 64.0,
+      "skew": 1.0,
+      "kurtosis": 0.56,
+      "CV_pct": 63.56
+    },
+    {
+      "variable": "Injured",
+      "count": 268.0,
+      "mean": 79.76,
+      "std": 55.01,
+      "min": 4.0,
+      "25%": 40.0,
+      "50%": 63.0,
+      "75%": 110.25,
+      "max": 287.0,
+      "median": 63.0,
+      "skew": 1.09,
+      "kurtosis": 0.68,
+      "CV_pct": 68.97
+    },
+    {
+      "variable": "Total",
+      "count": 371.0,
+      "mean": 92.26,
+      "std": 59.39,
+      "min": 7.0,
+      "25%": 48.0,
+      "50%": 77.0,
+      "75%": 124.5,
+      "max": 283.0,
+      "median": 77.0,
+      "skew": 1.01,
+      "kurtosis": 0.44,
+      "CV_pct": 64.37
+    },
+    {
+      "variable": "Fatality_Rate_pct",
+      "count": 371.0,
+      "mean": 17.0,
+      "std": 7.29,
+      "min": 0.0,
+      "25%": 11.82,
+      "50%": 16.6,
+      "75%": 21.12,
+      "max": 52.63,
+      "median": 16.6,
+      "skew": 0.92,
+      "kurtosis": 2.94,
+      "CV_pct": 42.9
+    },
+    {
+      "variable": "Severity_Index",
+      "count": 268.0,
+      "mean": 17.75,
+      "std": 7.54,
+      "min": 2.86,
+      "25%": 12.94,
+      "50%": 17.01,
+      "75%": 21.78,
+      "max": 52.63,
+      "median": 17.01,
+      "skew": 0.82,
+      "kurtosis": 1.99,
+      "CV_pct": 42.46
+    }
+  ],
+  "by_year": [
+    {
+      "Year": 2018,
+      "Stations": 44,
+      "Total": 4611,
+      "Fatal": 663,
+      "Mean_per_station": 104.8,
+      "Median_per_station": 90.0,
+      "Std": 63.0,
+      "Max": 283,
+      "Fatality_Rate_pct": 14.38
+    },
+    {
+      "Year": 2019,
+      "Stations": 44,
+      "Total": 4684,
+      "Fatal": 746,
+      "Mean_per_station": 106.5,
+      "Median_per_station": 87.0,
+      "Std": 63.5,
+      "Max": 269,
+      "Fatality_Rate_pct": 15.93
+    },
+    {
+      "Year": 2020,
+      "Stations": 44,
+      "Total": 3236,
+      "Fatal": 622,
+      "Mean_per_station": 73.5,
+      "Median_per_station": 59.0,
+      "Std": 49.8,
+      "Max": 195,
+      "Fatality_Rate_pct": 19.22
+    },
+    {
+      "Year": 2021,
+      "Stations": 44,
+      "Total": 3211,
+      "Fatal": 618,
+      "Mean_per_station": 73.0,
+      "Median_per_station": 64.0,
+      "Std": 47.8,
+      "Max": 189,
+      "Fatality_Rate_pct": 19.25
+    },
+    {
+      "Year": 2022,
+      "Stations": 44,
+      "Total": 3823,
+      "Fatal": 751,
+      "Mean_per_station": 86.9,
+      "Median_per_station": 71.0,
+      "Std": 56.1,
+      "Max": 205,
+      "Fatality_Rate_pct": 19.64
+    },
+    {
+      "Year": 2023,
+      "Stations": 48,
+      "Total": 4974,
+      "Fatal": 882,
+      "Mean_per_station": 103.6,
+      "Median_per_station": 89.5,
+      "Std": 67.6,
+      "Max": 279,
+      "Fatality_Rate_pct": 17.73
+    },
+    {
+      "Year": 2024,
+      "Stations": 50,
+      "Total": 4800,
+      "Fatal": 852,
+      "Mean_per_station": 96.0,
+      "Median_per_station": 82.0,
+      "Std": 56.9,
+      "Max": 242,
+      "Fatality_Rate_pct": 17.75
+    },
+    {
+      "Year": 2025,
+      "Stations": 53,
+      "Total": 4890,
+      "Fatal": 807,
+      "Mean_per_station": 92.3,
+      "Median_per_station": 77.0,
+      "Std": 60.7,
+      "Max": 267,
+      "Fatality_Rate_pct": 16.5
+    }
+  ],
+  "zone_summary": [
+    {
+      "Zone": "East",
+      "Total": 2879,
+      "Fatal": 506,
+      "Stations": 10,
+      "Station_years": 30,
+      "Fatality_Rate_pct": 17.58,
+      "Crashes_per_station_per_yr": 96.0
+    },
+    {
+      "Zone": "North",
+      "Total": 4684,
+      "Fatal": 928,
+      "Stations": 13,
+      "Station_years": 36,
+      "Fatality_Rate_pct": 19.81,
+      "Crashes_per_station_per_yr": 130.1
+    },
+    {
+      "Zone": "South",
+      "Total": 3414,
+      "Fatal": 580,
+      "Stations": 14,
+      "Station_years": 38,
+      "Fatality_Rate_pct": 16.99,
+      "Crashes_per_station_per_yr": 89.8
+    },
+    {
+      "Zone": "West",
+      "Total": 3687,
+      "Fatal": 527,
+      "Stations": 16,
+      "Station_years": 47,
+      "Fatality_Rate_pct": 14.29,
+      "Crashes_per_station_per_yr": 78.4
+    }
+  ],
+  "city_fr_2007": 11.36,
+  "city_fr_2025": 17.23,
+  "top_stations": [
+    {
+      "Station": "K R Puram",
+      "Zone": "East",
+      "Total_3yr": 762,
+      "Fatal_3yr": 109,
+      "Fatality_Rate_pct": 14.3,
+      "Rank_Total": 1,
+      "Rank_Fatal": 7
+    },
+    {
+      "Station": "Yalahanka",
+      "Zone": "North",
+      "Total_3yr": 735,
+      "Fatal_3yr": 168,
+      "Fatality_Rate_pct": 22.9,
+      "Rank_Total": 2,
+      "Rank_Fatal": 1
+    },
+    {
+      "Station": "Kengeri",
+      "Zone": "West",
+      "Total_3yr": 656,
+      "Fatal_3yr": 115,
+      "Fatality_Rate_pct": 17.5,
+      "Rank_Total": 3,
+      "Rank_Fatal": 5
+    },
+    {
+      "Station": "Int. Airport",
+      "Zone": "North",
+      "Total_3yr": 618,
+      "Fatal_3yr": 161,
+      "Fatality_Rate_pct": 26.1,
+      "Rank_Total": 4,
+      "Rank_Fatal": 2
+    },
+    {
+      "Station": "Kamakshipalya",
+      "Zone": "West",
+      "Total_3yr": 578,
+      "Fatal_3yr": 81,
+      "Fatality_Rate_pct": 14.0,
+      "Rank_Total": 5,
+      "Rank_Fatal": 8
+    },
+    {
+      "Station": "Electronic City",
+      "Zone": "South",
+      "Total_3yr": 552,
+      "Fatal_3yr": 120,
+      "Fatality_Rate_pct": 21.7,
+      "Rank_Total": 6,
+      "Rank_Fatal": 3
+    },
+    {
+      "Station": "Whitefield",
+      "Zone": "East",
+      "Total_3yr": 507,
+      "Fatal_3yr": 114,
+      "Fatality_Rate_pct": 22.5,
+      "Rank_Total": 7,
+      "Rank_Fatal": 6
+    },
+    {
+      "Station": "Peenya",
+      "Zone": "North",
+      "Total_3yr": 496,
+      "Fatal_3yr": 77,
+      "Fatality_Rate_pct": 15.5,
+      "Rank_Total": 8,
+      "Rank_Fatal": 9
+    },
+    {
+      "Station": "Chikkajala",
+      "Zone": "North",
+      "Total_3yr": 491,
+      "Fatal_3yr": 116,
+      "Fatality_Rate_pct": 23.6,
+      "Rank_Total": 9,
+      "Rank_Fatal": 4
+    },
+    {
+      "Station": "Hebbala",
+      "Zone": "North",
+      "Total_3yr": 485,
+      "Fatal_3yr": 77,
+      "Fatality_Rate_pct": 15.9,
+      "Rank_Total": 10,
+      "Rank_Fatal": 9
+    },
+    {
+      "Station": "Bytarayanapura",
+      "Zone": "West",
+      "Total_3yr": 474,
+      "Fatal_3yr": 60,
+      "Fatality_Rate_pct": 12.7,
+      "Rank_Total": 11,
+      "Rank_Fatal": 14
+    },
+    {
+      "Station": "Thalagattapura",
+      "Zone": "South",
+      "Total_3yr": 364,
+      "Fatal_3yr": 70,
+      "Fatality_Rate_pct": 19.2,
+      "Rank_Total": 12,
+      "Rank_Fatal": 12
+    }
+  ],
+  "stations_all_years": 43,
+  "rank_rho_2018_2025": 0.8,
+  "rank_rho_mean_adjacent": 0.92,
+  "corr_fatal_total": 0.89,
+  "corr_fr_total": 0.05,
+  "deadly_above_trend": [
+    "Int. Airport",
+    "Yalahanka",
+    "Chikkajala",
+    "Hennuru",
+    "Whitefield"
+  ],
+  "ka_blr_share_2023": 11.5,
+  "ka_top": [
+    {
+      "District": "Bengaluru City",
+      "Crashes": 4974.0,
+      "Deaths": 915.0,
+      "Deaths_per_100_crashes": 18.4
+    },
+    {
+      "District": "Tumakuru",
+      "Crashes": 2601.0,
+      "Deaths": 783.0,
+      "Deaths_per_100_crashes": 30.1
+    },
+    {
+      "District": "Bengaluru Dist",
+      "Crashes": 2451.0,
+      "Deaths": 694.0,
+      "Deaths_per_100_crashes": 28.3
+    },
+    {
+      "District": "Mandya",
+      "Crashes": 2160.0,
+      "Deaths": 515.0,
+      "Deaths_per_100_crashes": 23.8
+    },
+    {
+      "District": "Hassan",
+      "Crashes": 2138.0,
+      "Deaths": 502.0,
+      "Deaths_per_100_crashes": 23.5
+    },
+    {
+      "District": "Belagavi Dist",
+      "Crashes": 2086.0,
+      "Deaths": 800.0,
+      "Deaths_per_100_crashes": 38.4
+    },
+    {
+      "District": "Chitradurga",
+      "Crashes": 1750.0,
+      "Deaths": 472.0,
+      "Deaths_per_100_crashes": 27.0
+    },
+    {
+      "District": "Mysuru Dist",
+      "Crashes": 1736.0,
+      "Deaths": 472.0,
+      "Deaths_per_100_crashes": 27.2
+    }
+  ],
+  "india_top": [
+    {
+      "City": "Delhi",
+      "2024 Accidents": 5657,
+      "2024 Killed": 1551,
+      "2024 Ranking Accidents": 1.0
+    },
+    {
+      "City": "Bengaluru",
+      "2024 Accidents": 4769,
+      "2024 Killed": 894,
+      "2024 Ranking Accidents": 2.0
+    },
+    {
+      "City": "Jabalpur",
+      "2024 Accidents": 3928,
+      "2024 Killed": 589,
+      "2024 Ranking Accidents": 3.0
+    },
+    {
+      "City": "Hyderabad",
+      "2024 Accidents": 3785,
+      "2024 Killed": 301,
+      "2024 Ranking Accidents": 4.0
+    },
+    {
+      "City": "Chennai",
+      "2024 Accidents": 3762,
+      "2024 Killed": 542,
+      "2024 Ranking Accidents": 5.0
+    },
+    {
+      "City": "Indore",
+      "2024 Accidents": 3488,
+      "2024 Killed": 290,
+      "2024 Ranking Accidents": 6.0
+    },
+    {
+      "City": "Mallapuram",
+      "2024 Accidents": 3483,
+      "2024 Killed": 316,
+      "2024 Ranking Accidents": 7.0
+    },
+    {
+      "City": "Kochi",
+      "2024 Accidents": 3167,
+      "2024 Killed": 172,
+      "2024 Ranking Accidents": 8.0
+    },
+    {
+      "City": "Jaipur",
+      "2024 Accidents": 3115,
+      "2024 Killed": 860,
+      "2024 Ranking Accidents": 9.0
+    },
+    {
+      "City": "Bhopal",
+      "2024 Accidents": 2900,
+      "2024 Killed": 235,
+      "2024 Ranking Accidents": 10.0
+    }
+  ]
+}

@@ -1,0 +1,10 @@
+Combined long table (before cleaning): (421, 10)
+  Zone_reported Sub_division  Station_raw  Year Fatal Killed Non_Fatal Injured Total
+0          East          NaN  Cubbon Park  2018     2      2        52      53    54
+1          East          NaN  Cubbon Park  2019     5      5        46      56    51
+2          East          NaN  Cubbon Park  2020     2      2        24      28    26
+3          East          NaN    H.Grounds  2018     2      2        58      51    60
+4          East          NaN    H.Grounds  2019     5      5        48      54    53
+5          East          NaN    H.Grounds  2020     6      6        39      34    45
+
+Rows per year: {2018: 45, 2019: 45, 2020: 45, 2021: 45, 2022: 45, 2023: 63, 2024: 65, 2025: 68}

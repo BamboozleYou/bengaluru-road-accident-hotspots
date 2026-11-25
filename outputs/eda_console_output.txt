@@ -1,0 +1,372 @@
+RAW FILE INVENTORY
+      dataset                        file  rows  columns
+btp_2018_2020   btp_station_2018_2020.csv    45       17
+btp_2021_2022   btp_station_2020_2022.csv    45       12
+     btp_2023        btp_station_2023.csv    63        8
+     btp_2024        btp_station_2024.csv    65        6
+     btp_2025        btp_station_2025.csv    68        6
+  city_annual   blr_crashes_2007_2025.csv    19        5
+ ka_districts   ka_district_2020_2023.csv    39       10
+ india_cities india_large_cities_2024.csv    51       14
+
+=== btp_2018_2020: shape (45, 17)
+Columns: ["'Zone'", "'Station'", "'2018 - Fatal'", "'2018 - Killed'", "'2018 - Non-Fatal'", "'2018 - Injured'", "'2018 - Total Cases'", "'2019 - Fatal'", "'2019 - Killed'", "'2019 - Non-Fatal'", "'2019 - Injured'", "'2019 - Total Cases'", "'2020 - Fatal '", "'2020 - Killed'", "'2020 - Non-Fatal'", "'2020 - Injured'", "'2020 - Total Cases '"]
+Zone     Station 2018 - Fatal 2018 - Killed 2018 - Non-Fatal 2018 - Injured 2018 - Total Cases 2019 - Fatal 2019 - Killed 2019 - Non-Fatal 2019 - Injured 2019 - Total Cases 2020 - Fatal  2020 - Killed 2020 - Non-Fatal 2020 - Injured 2020 - Total Cases 
+East Cubbon Park            2             2               52             53                 54            5             5               46             56                 51             2             2               24             28                  26
+East   H.Grounds            2             2               58             51                 60            5             5               48             54                 53             6             6               39             34                  45
+East   S.S.Nagar            8             8               78             74                 86            6             6               52             54                 58             8             8               51             61                  59
+
+=== btp_2021_2022: shape (45, 12)
+Columns: ["'Zone'", "'Station'", "'2021 - Fatal'", "'2021 - Killed'", "'2021 - Non-Fatal'", "'2021 - Injured'", "'2021 - Total Cases'", "'2022 - Fatal'", "'2022 - Killed'", "'2022 - Non-Fatal'", "'2022 - Injured'", "'2022 - Total Cases'"]
+Zone     Station 2021 - Fatal 2021 - Killed 2021 - Non-Fatal 2021 - Injured 2021 - Total Cases 2022 - Fatal 2022 - Killed 2022 - Non-Fatal 2022 - Injured 2022 - Total Cases
+East Cubbon Park            4             4               34             35                 38            4             5               33             31                 37
+East   H.Grounds            2             2               36             38                 38            4             4               45             33                 49
+East   S.S.Nagar            4             4               60             51                 64           13            13               55             50                 68
+
+=== btp_2023: shape (63, 8)
+Columns: ["'Zone'", "'Sub-division'", "'Station'", "'2023 - Fatal Cases'", "'2023 - Killed People'", "'2023 - Non-Fatal'", "'2023 - Injured People'", "'2023 - Total Cases'"]
+Zone Sub-division        Station 2023 - Fatal Cases 2023 - Killed People 2023 - Non-Fatal 2023 - Injured People 2023 - Total Cases
+East         East      Halasooru                 11                   11               56                    48                 67
+East         East    Indiranagar                 12                   12               73                    62                 85
+East         East Pulikeshinagar                  4                    4               23                    24                 27
+
+=== btp_2024: shape (65, 6)
+Columns: ["'Zone'", "'Sub-division'", "'Station'", "'2024-Non Fatal'", "'2024-Fatal crashes'", "'2024-Total crashes'"]
+Zone Sub-division        Station 2024-Non Fatal 2024-Fatal crashes 2024-Total crashes
+East         East      Halasooru             49                 12                 61
+East         East    Indiranagar             98                 21                119
+East         East Pulikeshinagar             14                  4                 18
+
+=== btp_2025: shape (68, 6)
+Columns: ["'Zone'", "'Sub-division'", "'Station'", "'2025-Non Fatal'", "'2025-Fatal crashes'", "'2025-Total crashes'"]
+Zone Sub-division        Station 2025-Non Fatal 2025-Fatal crashes 2025-Total crashes
+East         East      Halasooru             35                  8                 43
+East         East    Indiranagar             74                 24                 98
+East         East Pulikeshinagar              9                 10                 19
+
+=== city_annual: shape (19, 5)
+Columns: ["'Year'", "'Fatal Road Accidents'", "'Killed'", "'Non-Fatal Road Accidents'", "'Total'"]
+Year Fatal Road Accidents Killed Non-Fatal Road Accidents Total
+2007                  957    981                    7,469 8,426
+2008                  864    892                    6,908 7,772
+2009                  737    761                    6,138 6,875
+
+=== ka_districts: shape (39, 10)
+Columns: ["'Sl No'", "'District'", "'Road Crashes 2020'", "'Deaths 2020'", "'Road Crashes 2021'", "'Deaths 2021'", "'Road Crashes 2022'", "'Deaths 2022'", "'Road Crashes 2023'", "'Deaths 2023'"]
+Sl No      District Road Crashes 2020 Deaths 2020 Road Crashes 2021 Deaths 2021 Road Crashes 2022 Deaths 2022 Road Crashes 2023 Deaths 2023
+    1      Bagalkot               781         389               802         343               900         379               862         402
+    2       Ballari              1005         361              1150         437               528         226               575         252
+    3 Belagavi City               420         114               424         109               565         167               556         137
+
+=== india_cities: shape (51, 14)
+Columns: ["'Sl No'", "'City'", "'2023 Accidents'", "'2024 Accidents'", "'2023 Ranking Accidents'", "'2024 Ranking Accidents'", "'2023 Killed'", "'2024 Killed'", "'2023 Ranking Killed'", "'2024 Ranking Killed'", "'2023 Injured'", "'2024 Injured'", "'2023 Ranking Injured'", "'2024 Ranking Injured'"]
+Sl No                  City 2023 Accidents 2024 Accidents 2023 Ranking Accidents 2024 Ranking Accidents 2023 Killed 2024 Killed 2023 Ranking Killed 2024 Ranking Killed 2023 Injured 2024 Injured 2023 Ranking Injured 2024 Ranking Injured
+    1                  Agra          1,007          1,223                     29                     28         499         586                  11                   6          657          984                   31                   28
+    2             Ahmedabad          1,767          1,586                     19                     21         535         410                   8                  12        1,347        1,269                   21                   21
+    3 Allahabad (Prayagraj)          1,297          1,246                     24                     27         582         547                   5                   9          865          832                   28                   30
+
+Headers with stray whitespace: [('btp_2018_2020', '2020 - Fatal '), ('btp_2018_2020', '2020 - Total Cases ')]
+Combined long table (before cleaning): (421, 10)
+  Zone_reported Sub_division  Station_raw  Year Fatal Killed Non_Fatal Injured Total                Source_file
+0          East          NaN  Cubbon Park  2018     2      2        52      53    54  btp_station_2018_2020.csv
+1          East          NaN  Cubbon Park  2019     5      5        46      56    51  btp_station_2018_2020.csv
+2          East          NaN  Cubbon Park  2020     2      2        24      28    26  btp_station_2018_2020.csv
+3          East          NaN    H.Grounds  2018     2      2        58      51    60  btp_station_2018_2020.csv
+4          East          NaN    H.Grounds  2019     5      5        48      54    53  btp_station_2018_2020.csv
+        Attribute                 Data type                                                                      Description
+             Zone     Categorical (nominal)                  BTP traffic zone (East / West / North / South) – 2025 structure
+    Zone_reported     Categorical (nominal)     Zone exactly as printed in that year's file (zones were reorganised in 2023)
+     Sub_division     Categorical (nominal)                                  Traffic sub-division (published only from 2023)
+          Station     Categorical (nominal) Traffic police station – the spatial unit for hotspot analysis (harmonised name)
+      Station_raw                      Text                                                Station name exactly as published
+             Year  Integer (ordinal / time)                                          Calendar year of the crashes, 2018–2025
+            Fatal Integer (count, discrete)                                         Number of fatal crashes (≥1 person died)
+           Killed Integer (count, discrete)                           Number of persons killed (not published for 2024–2025)
+        Non_Fatal Integer (count, discrete)                                             Number of non-fatal (injury) crashes
+          Injured Integer (count, discrete)                          Number of persons injured (not published for 2024–2025)
+            Total Integer (count, discrete)                                                Total crashes = Fatal + Non_Fatal
+Fatality_Rate_pct    Float (ratio, derived)                           Fatal / Total × 100 – share of crashes that were fatal
+   Severity_Index    Float (ratio, derived)                                          Killed per 100 crashes (2018–2023 only)
+      Source_file                      Text                                          Raw file the record came from (lineage)
+Aggregate rows found: 50 (removed from the record-level table, kept for validation)
+ Year Zone_reported Sub_division Station_raw Total
+ 2018           NaN          NaN Grand Total  4611
+ 2019           NaN          NaN Grand Total  4684
+ 2020           NaN          NaN Grand Total  3236
+ 2021           NaN          NaN Grand Total  3211
+ 2022           NaN          NaN Grand Total  3823
+ 2023           NaN        East        Total   337
+ 2023           NaN   Whitefield       Total   667
+ 2023          East          NaN  East Total  1004
+ 2023           NaN      Central       Total   316
+ 2023           NaN         West       Total   568
+ 2023           NaN  Vijayanagar       Total   370
+ 2023          West          NaN  West Total  1254
+ 2023           NaN   North East       Total   934
+ 2023           NaN        North       Total   601
+ 2023         North          NaN North Total  1535
+ 2023           NaN   South East       Total   332
+ 2023           NaN        South       Total   554
+ 2023           NaN   HSR Layout       Total   295
+ 2023         South          NaN South Total  1181
+ 2023         Total          NaN Grand Total  4974
+ 2024           NaN        East        Total   351
+ 2024           NaN   Whitefield       Total   632
+ 2024          East          NaN  East Total   983
+ 2024           NaN      Central       Total   318
+ 2024           NaN         West       Total   593
+ 2024           NaN  Vijayanagar       Total   242
+ 2024          West          NaN  West Total  1153
+ 2024           NaN   North East       Total   987
+ 2024           NaN        North       Total   559
+ 2024         North          NaN North Total  1546
+ 2024           NaN   South East       Total   319
+ 2024           NaN        South       Total   503
+ 2024           NaN   HSR Layout       Total   296
+ 2024         South          NaN South Total  1118
+ 2024         Total          NaN Grand Total  4800
+ 2025           NaN        East        Total   327
+ 2025           NaN   Whitefield       Total   565
+ 2025          East          NaN  East Total   892
+ 2025           NaN      Central       Total   310
+ 2025           NaN         West       Total   617
+ 2025           NaN  Vijayanagar       Total   309
+ 2025          West          NaN  West Total  1236
+ 2025           NaN   North East       Total   902
+ 2025           NaN        North       Total   701
+ 2025         North          NaN North Total  1603
+ 2025           NaN   South East       Total   318
+ 2025           NaN        South       Total   523
+ 2025           NaN   HSR Layout       Total   318
+ 2025         South          NaN South Total  1159
+ 2025         Total          NaN Grand Total  4890
+dtypes BEFORE:
+ Zone_reported       str
+Sub_division     object
+Station_raw         str
+Year              int64
+Fatal               str
+Killed           object
+Non_Fatal           str
+Injured          object
+Total               str
+Source_file         str
+Station names harmonised:
+ Station_raw                 Station
+      B.Pura          Bytarayanapura
+Chamarajapet             Chamarajpet
+    Chikjala              Chikkajala
+      Ulsoor               Halasooru
+    HuliMavu                Hulimavu
+ Int. Aiport            Int. Airport
+    K.R.Pura               K R Puram
+K.Swamy Lyt.              K S Layout
+ Malleswaram            Malleshwaram
+ Mico layout              Micolayout
+      F.Town          Pulikeshinagar
+    RT Nagar               R T Nagar
+    Chickpet Sheshadripuram/Chickpet
+ White Field              Whitefield
+   Yelahanka               Yalahanka
+      Y.Pura         Yashawanthapura
+
+Stations whose zone changed in the 2023 reorganisation: 22
+        Station Zone_reported  Zone
+    Cubbon Park          East  West
+      H.Grounds          East  West
+      S.S.Nagar          East  West
+         U.Gate          East  West
+    Ashokanagar          East  West
+       W.Garden          East  West
+        Adugodi          East South
+       Madivala          East South
+Electronic City          East South
+     Micolayout          East South
+       Hulimavu          East South
+     HSR Layout          East South
+   Malleshwaram          West North
+    Rajajinagar          West North
+Yashawanthapura          West North
+         Peenya          West North
+      Jalahalli          West North
+   Basavanagudi          West South
+      Jayanagar          West South
+   Banashankari          West South
+     K S Layout          West South
+    Chamarajpet         South  West
+Missing values per column (station table):
+               missing_count  missing_pct
+Fatal                     0         0.00
+Killed                  103        27.76
+Non_Fatal                 0         0.00
+Injured                 103        27.76
+Total                     0         0.00
+Sub_division              5         1.35
+
+Missing by year:
+       Fatal  Killed  Non_Fatal  Injured  Total
+Year                                          
+2018      0       0          0        0      0
+2019      0       0          0        0      0
+2020      0       0          0        0      0
+2021      0       0          0        0      0
+2022      0       0          0        0      0
+2023      0       0          0        0      0
+2024      0      50          0       50      0
+2025      0      53          0       53      0
+Exact duplicate rows: 0
+Duplicate (Station, Year) keys: 0
+None
+Records per year:
+ Year
+2018    44
+2019    44
+2020    44
+2021    44
+2022    44
+2023    48
+2024    50
+2025    53
+Rows where Fatal + Non_Fatal != Total: 0
+Empty DataFrame
+Columns: [Year, Station, Fatal, Non_Fatal, Total]
+Index: []
+Rows where Killed < Fatal (impossible): 0
+
+Reconciliation of totals:
+       Fatal  Total  Fatal_GrandTotalRow  Total_GrandTotalRow  Fatal_CityTable  Total_CityTable  Total_diff_vs_city
+Year                                                                                                              
+2018    663   4611                  663                 4611              661             4611                   0
+2019    746   4684                  746                 4684              744             4688                  -4
+2020    622   3236                  622                 3236              622             3236                   0
+2021    618   3211                  618                 3211              621             3213                  -2
+2022    751   3823                  751                 3823              752             3822                   1
+2023    882   4974                  882                 4974              882             4974                   0
+2024    852   4800                  852                 4800              869             4769                  31
+2025    807   4890                  807                 4890              843             4893                  -3
+dtypes AFTER:
+ Year                     int64
+Zone                       str
+Zone_reported              str
+Sub_division            object
+Station                    str
+Station_raw                str
+Fatal                    Int64
+Killed                   Int64
+Non_Fatal                Int64
+Injured                  Int64
+Total                    Int64
+Fatality_Rate_pct      Float64
+Severity_Index         Float64
+chk_total              boolean
+chk_killed_ge_fatal    boolean
+Source_file                str
+Karnataka missing values:
+ Empty DataFrame
+Columns: [District, Year, Deaths, Crashes]
+Index: []
+India cities shape: (50, 14)
+Outlier station-years:
+  Year       Station  Zone  Total  IQR_upper_fence  Z_score  IQR_outlier  Z_outlier(>2.5)
+ 2018     K R Puram  East    283            297.1     2.86        False             True
+ 2019     K R Puram  East    269            249.8     2.59         True             True
+ 2019     Yalahanka North    260            249.8     2.45         True            False
+ 2023     K R Puram  East    254            204.9     2.25         True            False
+ 2023    Whitefield  East    223            204.9     1.78         True            False
+ 2023  Int. Airport North    232            204.9     1.92         True            False
+ 2023     Yalahanka North    236            204.9     1.98         True            False
+ 2023 Kamakshipalya  West    241            204.9     2.05         True            False
+ 2023       Kengeri  West    279            204.9     2.62         True             True
+ 2024     K R Puram  East    241            232.4     2.57         True             True
+ 2024  Int. Airport North    240            232.4     2.56         True             True
+ 2024     Yalahanka North    242            232.4     2.59         True             True
+ 2025     K R Puram  East    267            220.5     2.91         True             True
+ 2025     Yalahanka North    257            220.5     2.74         True             True
+Temporal anomalies (year < 45% of station's own median):
+  Year     Station  Total  Station_median  Ratio_to_median
+ 2021 Indiranagar     32            79.5             0.40
+ 2021   K R Puram     64           247.5             0.26
+
+City annual series with z-scores and YoY change:
+  Year  Fatal  Killed  Non_Fatal  Total  Fatality_Rate_pct  Non_Fatal_z  YoY_change_pct
+ 2007    957     981       7469   8426              11.36         2.08             NaN
+ 2008    864     892       6908   7772              11.12         1.66            -7.8
+ 2009    737     761       6138   6875              10.72         1.09           -11.5
+ 2010    816     858       5667   6483              12.59         0.74            -5.7
+ 2011    727     762       5297   6024              12.07         0.47            -7.1
+ 2012    740     760       4767   5507              13.44         0.08            -8.6
+ 2013    737     771       4493   5230              14.09        -0.12            -5.0
+ 2014    711     737       4293   5004              14.21        -0.27            -4.3
+ 2015    714     740       4114   4828              14.79        -0.40            -3.5
+ 2016    754     793       6752   7506              10.05         1.55            55.5
+ 2017    609     642       4455   5064              12.03        -0.15           -32.5
+ 2018    661     686       3950   4611              14.34        -0.53            -8.9
+ 2019    744     766       3944   4688              15.87        -0.53             1.7
+ 2020    622     647       2614   3236              19.22        -1.51           -31.0
+ 2021    621     654       2592   3213              19.33        -1.53            -0.7
+ 2022    752     772       3070   3822              19.68        -1.18            19.0
+ 2023    882     910       4092   4974              17.73        -0.42            30.1
+ 2024    869     894       3900   4769              18.22        -0.56            -4.1
+ 2025    843     878       4050   4893              17.23        -0.45             2.6
+Descriptive statistics – all station-years:
+                    count   mean    std   min    25%    50%     75%     max  median  skew  kurtosis  CV_pct
+Fatal              371.0  16.01  12.76  0.00   6.00  12.00   22.00   60.00   12.00  1.24      1.09   79.67
+Killed             268.0  16.54  13.43  1.00   6.00  12.00   23.25   63.00   12.00  1.21      0.87   81.19
+Non_Fatal          371.0  76.25  48.46  5.00  40.00  64.00  103.00  241.00   64.00  1.00      0.56   63.56
+Injured            268.0  79.76  55.01  4.00  40.00  63.00  110.25  287.00   63.00  1.09      0.68   68.97
+Total              371.0  92.26  59.39  7.00  48.00  77.00  124.50  283.00   77.00  1.01      0.44   64.37
+Fatality_Rate_pct  371.0  17.00   7.29  0.00  11.82  16.60   21.12   52.63   16.60  0.92      2.94   42.90
+Severity_Index     268.0  17.75   7.54  2.86  12.94  17.01   21.78   52.63   17.01  0.82      1.99   42.46
+
+By year:
+       Stations  Total  Fatal  Mean_per_station  Median_per_station   Std  Max  Fatality_Rate_pct
+Year                                                                                            
+2018        44   4611    663             104.8                90.0  63.0  283              14.38
+2019        44   4684    746             106.5                87.0  63.5  269              15.93
+2020        44   3236    622              73.5                59.0  49.8  195              19.22
+2021        44   3211    618              73.0                64.0  47.8  189              19.25
+2022        44   3823    751              86.9                71.0  56.1  205              19.64
+2023        48   4974    882             103.6                89.5  67.6  279              17.73
+2024        50   4800    852              96.0                82.0  56.9  242              17.75
+2025        53   4890    807              92.3                77.0  60.7  267               16.5
+
+Zone summary 2023–2025:
+     Zone  Total  Fatal  Stations  Station_years  Fatality_Rate_pct  Crashes_per_station_per_yr
+0   East   2879    506        10             30              17.58                        96.0
+1  North   4684    928        13             36              19.81                       130.1
+2  South   3414    580        14             38              16.99                        89.8
+3   West   3687    527        16             47              14.29                        78.4
+Top 12 stations 2023–2025:
+         Station  Zone  Total_3yr  Fatal_3yr  Fatality_Rate_pct  Rank_Total  Rank_Fatal
+      K R Puram  East        762        109               14.3           1           7
+      Yalahanka North        735        168               22.9           2           1
+        Kengeri  West        656        115               17.5           3           5
+   Int. Airport North        618        161               26.1           4           2
+  Kamakshipalya  West        578         81               14.0           5           8
+Electronic City South        552        120               21.7           6           3
+     Whitefield  East        507        114               22.5           7           6
+         Peenya North        496         77               15.5           8           9
+     Chikkajala North        491        116               23.6           9           4
+        Hebbala North        485         77               15.9          10           9
+ Bytarayanapura  West        474         60               12.7          11          14
+ Thalagattapura South        364         70               19.2          12          12
+Spearman rank correlation between years (stations present all years):
+ Year  2018  2019  2020  2021  2022  2023  2024  2025
+Year                                                
+2018  1.00  0.95  0.95  0.88  0.91  0.90  0.81  0.80
+2019  0.95  1.00  0.94  0.84  0.87  0.89  0.84  0.83
+2020  0.95  0.94  1.00  0.92  0.93  0.88  0.83  0.83
+2021  0.88  0.84  0.92  1.00  0.88  0.84  0.77  0.76
+2022  0.91  0.87  0.93  0.88  1.00  0.91  0.82  0.81
+2023  0.90  0.89  0.88  0.84  0.91  1.00  0.93  0.88
+2024  0.81  0.84  0.83  0.77  0.82  0.93  1.00  0.91
+2025  0.80  0.83  0.83  0.76  0.81  0.88  0.91  1.00
+Pearson correlation (2018–2023, all variables available):
+                    Fatal  Killed  Non_Fatal  Injured  Total  Fatality_Rate_pct
+Fatal               1.00    1.00       0.82     0.85   0.89               0.41
+Killed              1.00    1.00       0.82     0.84   0.88               0.41
+Non_Fatal           0.82    0.82       1.00     0.97   0.99              -0.04
+Injured             0.85    0.84       0.97     1.00   0.97               0.02
+Total               0.89    0.88       0.99     0.97   1.00               0.05
+Fatality_Rate_pct   0.41    0.41      -0.04     0.02   0.05               1.00
+Saved cleaned data, figures and key numbers.

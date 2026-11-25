@@ -1,0 +1,8 @@
+,Before,After
+Year,int64,int64
+Fatal,object,Int64
+Killed,object,Int64
+Non_Fatal,object,Int64
+Injured,object,Int64
+Total,object,Int64
+Station_raw,object,object

@@ -1,0 +1,21 @@
+Station spellings harmonised: 16
+ Station_raw                 Station
+      B.Pura          Bytarayanapura
+Chamarajapet             Chamarajpet
+    Chikjala              Chikkajala
+      Ulsoor               Halasooru
+    HuliMavu                Hulimavu
+ Int. Aiport            Int. Airport
+    K.R.Pura               K R Puram
+K.Swamy Lyt.              K S Layout
+ Malleswaram            Malleshwaram
+ Mico layout              Micolayout
+      F.Town          Pulikeshinagar
+    RT Nagar               R T Nagar
+    Chickpet Sheshadripuram/Chickpet
+ White Field              Whitefield
+   Yelahanka               Yalahanka
+      Y.Pura         Yashawanthapura
+
+Stations re-mapped to their 2025 zone: 22
+Unique stations before/after harmonising: 69 -> 54

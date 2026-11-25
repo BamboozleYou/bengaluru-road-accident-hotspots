@@ -1,0 +1,20 @@
+Stations comparable in both periods: 43
+Worsened: 15 | Improved: 27
+
+Most improved:
+              Avg_2018_19  Avg_2024_25  Change  Change_pct
+Station                                                  
+K S Layout         191.0         93.5   -97.5       -51.0
+Jalahalli          140.5         62.5   -78.0       -55.5
+Peenya             221.5        152.0   -69.5       -31.4
+Vijayanagar        126.5         67.5   -59.0       -46.6
+Hulimavu           129.5         80.5   -49.0       -37.8
+
+Most worsened:
+                 Avg_2018_19  Avg_2024_25  Change  Change_pct
+Station                                                     
+Kengeri               166.0        188.5    22.5        13.6
+Bytarayanapura        121.5        146.0    24.5        20.2
+K G Halli              26.0         51.0    25.0        96.2
+Hebbala               139.5        170.5    31.0        22.2
+Rajajinagar            63.0         95.0    32.0        50.8

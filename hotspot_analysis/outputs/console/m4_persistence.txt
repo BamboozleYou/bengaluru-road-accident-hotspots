@@ -1,0 +1,17 @@
+Stations reported in all 8 years: 43
+Spearman rank correlation between consecutive years: [0.95, 0.94, 0.92, 0.88, 0.91, 0.93, 0.91]
+2018 vs 2025: rho = 0.80
+Stations in the top 10 in EVERY year 2018-2025: ['Electronic City', 'Kamakshipalya', 'Peenya', 'Yalahanka']
+Years in top-10 (of 8):
+ Peenya             8
+Kamakshipalya      8
+Yalahanka          8
+Electronic City    8
+Chikkajala         7
+K R Puram          7
+Kengeri            7
+Whitefield         6
+K S Layout         6
+Hebbala            6
+Bytarayanapura     6
+Jalahalli          1

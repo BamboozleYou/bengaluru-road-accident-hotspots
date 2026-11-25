@@ -1,0 +1,9 @@
+pandas>=2.2
+numpy
+scipy
+matplotlib
+seaborn
+pygments
+pillow
+python-docx
+pymupdf

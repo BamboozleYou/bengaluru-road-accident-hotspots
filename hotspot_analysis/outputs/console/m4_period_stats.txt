@@ -1,0 +1,8 @@
+            Station_years  Mean_total  Median_total  Mean_fatality_rate
+Period                                                                 
+Pre-COVID            88.0      105.62          88.0               14.48
+COVID                88.0       73.26          60.5               18.96
+Post-COVID          195.0       94.81          80.0               17.26
+
+Mann-Whitney U (post-COVID fatality rate > pre-COVID): U = 10546, p = 0.0010
+Shapiro-Wilk normality test on Total: W = 0.916, p = 1.43e-13  -> not normal

@@ -1,0 +1,17 @@
+# environments / caches
+.venv/
+venv/
+__pycache__/
+.ipynb_checkpoints/
+.DS_Store
+
+# college-specific material — not shared in this repo
+hotspot_analysis/report/
+hotspot_analysis/assets/
+aat_guidelines/
+*.pptx
+~$*
+
+# regenerated on every run
+hotspot_analysis/outputs/interim/
+hotspot_analysis/outputs/console/run_all_log.txt

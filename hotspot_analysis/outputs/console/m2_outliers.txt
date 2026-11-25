@@ -1,0 +1,28 @@
+Station-years flagged (IQR or |z| > 2.5): 14
+ Year       Station  Zone  Total  IQR upper fence  Z-score
+ 2018     K R Puram  East    283            297.1     2.86
+ 2019     K R Puram  East    269            249.8     2.59
+ 2019     Yalahanka North    260            249.8     2.45
+ 2023     K R Puram  East    254            204.9     2.25
+ 2023    Whitefield  East    223            204.9     1.78
+ 2023       Kengeri  West    279            204.9     2.62
+ 2023 Kamakshipalya  West    241            204.9     2.05
+ 2023     Yalahanka North    236            204.9     1.98
+ 2023  Int. Airport North    232            204.9     1.92
+ 2024     K R Puram  East    241            232.4     2.57
+ 2024     Yalahanka North    242            232.4     2.59
+ 2024  Int. Airport North    240            232.4     2.56
+ 2025     K R Puram  East    267            220.5     2.91
+ 2025     Yalahanka North    257            220.5     2.74
+
+Sensitivity of Total to capping:
+        Original  IQR-capped
+count    371.00      371.00
+mean      92.26       91.25
+std       59.39       56.91
+min        7.00        7.00
+25%       48.00       48.00
+50%       77.00       77.00
+75%      124.50      124.50
+max      283.00      283.00
+skew       1.01        0.86

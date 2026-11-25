@@ -1,0 +1,16 @@
+            Station   Zone  Total  Fatal  Fatality_Rate_pct
+1         K R Puram   East    762    109               14.3
+2         Yalahanka  North    735    168               22.9
+3           Kengeri   West    656    115               17.5
+4      Int. Airport  North    618    161               26.1
+5     Kamakshipalya   West    578     81               14.0
+6   Electronic City  South    552    120               21.7
+7        Whitefield   East    507    114               22.5
+8            Peenya  North    496     77               15.5
+9        Chikkajala  North    491    116               23.6
+10          Hebbala  North    485     77               15.9
+11   Bytarayanapura   West    474     60               12.7
+12   Thalagattapura  South    364     70               19.2
+13       K S Layout  South    341     47               13.8
+14     Mahadevapura   East    328     52               15.9
+15          Hennuru  North    318     77               24.2

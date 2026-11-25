@@ -1,0 +1,9 @@
+Karnataka rows with missing values (district created in 2021):
+    District  Year       metric
+Vijayanagara  2020 Road Crashes
+Vijayanagara  2020       Deaths
+Vijayanagara  2021 Road Crashes
+Vijayanagara  2021       Deaths
+
+City annual: (19, 9) | Karnataka districts: (150, 5) | India cities: (50, 14)
+Missing after cleaning -> city: 0 | KA: 0 | India: 0

@@ -1,0 +1,17 @@
+Zone     Station 2018 - Fatal 2018 - Killed 2018 - Non-Fatal 2018 - Injured 2018 - Total Cases 2019 - Fatal
+East Cubbon Park            2             2               52             53                 54            5
+East   H.Grounds            2             2               58             51                 60            5
+East   S.S.Nagar            8             8               78             74                 86            6
+East      U.Gate            4             4               43             40                 47            2
+
+Last column name : '2020 - Total Cases '
+City 'Total' value: '8,426' -> <class 'str'>
+
+Columns per BTP file: {'btp_2018_2020': 17, 'btp_2021_2022': 12, 'btp_2023': 8, 'btp_2024': 6, 'btp_2025': 6}
+
+Tail of 2025 file (sub-total rows mixed with data):
+ Zone Sub-division     Station 2025-Non Fatal 2025-Fatal crashes 2025-Total crashes
+South   HSR Layout  Bellanduru             65                 11                 76
+  NaN   HSR Layout       Total            255                 63                318
+South          NaN South Total            965                194               1159
+Total          NaN Grand Total           4083                807               4890

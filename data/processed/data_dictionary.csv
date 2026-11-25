@@ -1,0 +1,15 @@
+Attribute,Data type,Description
+Zone,Categorical (nominal),BTP traffic zone (East / West / North / South) – 2025 structure
+Zone_reported,Categorical (nominal),Zone exactly as printed in that year's file (zones were reorganised in 2023)
+Sub_division,Categorical (nominal),Traffic sub-division (published only from 2023)
+Station,Categorical (nominal),Traffic police station – the spatial unit for hotspot analysis (harmonised name)
+Station_raw,Text,Station name exactly as published
+Year,Integer (ordinal / time),"Calendar year of the crashes, 2018–2025"
+Fatal,"Integer (count, discrete)",Number of fatal crashes (≥1 person died)
+Killed,"Integer (count, discrete)",Number of persons killed (not published for 2024–2025)
+Non_Fatal,"Integer (count, discrete)",Number of non-fatal (injury) crashes
+Injured,"Integer (count, discrete)",Number of persons injured (not published for 2024–2025)
+Total,"Integer (count, discrete)",Total crashes = Fatal + Non_Fatal
+Fatality_Rate_pct,"Float (ratio, derived)",Fatal / Total × 100 – share of crashes that were fatal
+Severity_Index,"Float (ratio, derived)",Killed per 100 crashes (2018–2023 only)
+Source_file,Text,Raw file the record came from (lineage)

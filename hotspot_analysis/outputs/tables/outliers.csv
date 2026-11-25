@@ -1,0 +1,15 @@
+Year,Station,Zone,Total,IQR upper fence,Z-score
+2018,K R Puram,East,283,297.1,2.86
+2019,K R Puram,East,269,249.8,2.59
+2019,Yalahanka,North,260,249.8,2.45
+2023,K R Puram,East,254,204.9,2.25
+2023,Whitefield,East,223,204.9,1.78
+2023,Kengeri,West,279,204.9,2.62
+2023,Kamakshipalya,West,241,204.9,2.05
+2023,Yalahanka,North,236,204.9,1.98
+2023,Int. Airport,North,232,204.9,1.92
+2024,K R Puram,East,241,232.4,2.57
+2024,Yalahanka,North,242,232.4,2.59
+2024,Int. Airport,North,240,232.4,2.56
+2025,K R Puram,East,267,220.5,2.91
+2025,Yalahanka,North,257,220.5,2.74

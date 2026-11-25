@@ -1,0 +1,2 @@
+Fatality-rate trend: +0.46 percentage points/year, R^2 = 0.68, p = 0.00001
+2007 fatality rate: 11.36 % | 2025: 17.23 %

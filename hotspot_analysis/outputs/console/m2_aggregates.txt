@@ -1,0 +1,13 @@
+Sub-total / zone-total / grand-total rows found: 50
+ Year Zone_reported Sub_division Station_raw Total
+ 2018           NaN          NaN Grand Total  4611
+ 2019           NaN          NaN Grand Total  4684
+ 2020           NaN          NaN Grand Total  3236
+ 2021           NaN          NaN Grand Total  3211
+ 2022           NaN          NaN Grand Total  3823
+ 2023           NaN        East        Total   337
+ 2023           NaN   Whitefield       Total   667
+ 2023          East          NaN  East Total  1004
+ 2023           NaN      Central       Total   316
+ 2023           NaN         West       Total   568
+Shape after removing them: (371, 10)

@@ -1,0 +1,17 @@
+        mean    50%   std
+Zone                     
+North  18.63  18.18  5.48
+East   20.66  18.60  9.00
+West   14.05  13.00  6.64
+South  16.38  16.67  6.33
+
+Kruskal-Wallis H = 44.10, p = 0.0000
+Contingency table 2023-25 (fatal vs non-fatal crashes by zone):
+        Fatal  Non_Fatal
+Zone                   
+North    928       3756
+East     506       2373
+West     527       3160
+South    580       2834
+Chi-square = 44.27, dof = 3, p = 1.32e-09
+Fatal share by zone 2023-25 (%): {'North': 19.8, 'East': 17.6, 'West': 14.3, 'South': 17.0}

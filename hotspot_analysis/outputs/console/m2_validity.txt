@@ -1,0 +1,18 @@
+                       Rule  Violations
+            Negative counts           0
+ Fatal + Non_Fatal != Total           0
+Killed < Fatal (impossible)           0
+  Total = 0 (empty station)           0
+              Fatal > Total           0
+     Year outside 2018-2025           0
+
+       Sum of stations  Grand Total row  City table  Difference vs city  Difference %
+Year                                                                                
+2018             4611             4611        4611                   0           0.0
+2019             4684             4684        4688                  -4         -0.09
+2020             3236             3236        3236                   0           0.0
+2021             3211             3211        3213                  -2         -0.06
+2022             3823             3823        3822                   1          0.03
+2023             4974             4974        4974                   0           0.0
+2024             4800             4800        4769                  31          0.65
+2025             4890             4890        4893                  -3         -0.06

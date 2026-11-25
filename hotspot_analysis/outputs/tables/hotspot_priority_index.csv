@@ -1,0 +1,54 @@
+Rank,Station,Zone,Total,Fatal,Fatality_Rate_pct,Trend_per_yr,HPI,Tier
+1,Yalahanka,North,735,168,22.86,20.8,91.63,Critical
+2,Int. Airport,North,618,161,26.05,-43.0,80.7,Critical
+3,K R Puram,East,762,109,14.3,44.2,73.81,Critical
+4,Kengeri,West,656,115,17.53,24.2,71.49,Critical
+5,Electronic City,South,552,120,21.74,13.7,70.96,Critical
+6,Chikkajala,North,491,116,23.63,1.6,67.79,Critical
+7,Whitefield,East,507,114,22.49,3.1,67.14,Critical
+8,Kamakshipalya,West,578,81,14.01,1.6,54.54,High
+9,Hebbala,North,485,77,15.88,17.4,53.26,High
+10,Peenya,North,496,77,15.52,4.3,51.9,High
+11,Thalagattapura,South,364,70,19.23,31.0,51.19,High
+12,Hennuru,North,318,77,24.21,-7.5,50.94,High
+13,Yashawanthapura,North,306,64,20.92,7.0,46.12,High
+14,Bytarayanapura,West,474,60,12.66,3.5,44.35,High
+15,Indiranagar,East,302,57,18.87,20.3,44.03,High
+16,Airport,East,267,60,22.47,-12.5,42.71,High
+17,Mahadevapura,East,328,52,15.85,18.0,40.98,High
+18,Micolayout,South,256,52,20.31,4.7,40.44,High
+19,Madivala,South,265,50,18.87,12.9,40.01,High
+20,Jalahalli,North,227,51,22.47,-7.9,39.46,High
+21,Hulimavu,South,269,50,18.59,-1.0,38.33,High
+22,HSR Layout,South,181,40,22.1,1.3,35.71,High
+23,Upparpet,West,122,31,25.41,7.1,34.72,High
+24,K S Layout,South,341,47,13.78,-19.1,34.25,High
+25,Bellanduru,South,176,34,19.32,16.5,33.39,High
+26,Rajajinagar,North,292,39,13.36,4.8,32.72,High
+27,Jnanabharathi,West,299,40,13.38,0.0,32.72,High
+28,Banashankari,South,254,38,14.96,4.2,32.28,High
+29,Pulikeshinagar,East,64,18,28.12,0.9,30.92,High
+30,Jayanagar,South,241,36,14.94,0.4,30.82,High
+31,Malleshwaram,North,223,34,15.25,5.4,30.46,High
+32,Vijayanagar,West,214,34,15.89,-6.0,29.35,Monitor
+33,Halasooru,East,171,31,18.13,-2.3,29.27,Monitor
+34,City Market,West,105,23,21.9,7.2,29.07,Monitor
+35,Ashokanagar,West,113,24,21.24,-0.4,28.18,Monitor
+36,Chikkabanavara,North,207,29,14.01,0.0,26.92,Monitor
+37,Banasawadi,East,257,30,11.67,-4.7,26.6,Monitor
+38,K G Halli,East,142,24,16.9,7.6,26.49,Monitor
+39,Sheshadripuram/Chickpet,West,105,20,19.05,-2.3,24.77,Monitor
+40,Adugodi,South,179,22,12.29,10.2,23.78,Monitor
+41,R T Nagar,North,176,22,12.5,-7.0,21.87,Monitor
+42,W.Garden,West,164,20,12.2,-3.1,21.09,Monitor
+43,U.Gate,West,189,18,9.52,11.7,20.98,Monitor
+44,Basavanagudi,South,274,17,6.2,7.3,20.78,Monitor
+45,S.S.Nagar,West,162,17,10.49,-1.9,18.94,Monitor
+46,H.Grounds,West,162,15,9.26,3.2,17.97,Monitor
+47,Shivajinagar,East,79,11,13.92,2.3,17.63,Monitor
+48,Kodigehalli,North,110,13,11.82,0.0,17.26,Monitor
+49,Magadi Road,West,129,13,10.08,4.2,16.99,Monitor
+50,Chamarajpet,West,61,8,13.11,-5.8,14.55,Monitor
+51,Cubbon Park,West,154,8,5.19,3.5,12.46,Monitor
+52,JP Nagar,South,43,3,6.98,0.0,7.93,Monitor
+53,VV Puram,South,19,1,5.26,0.0,4.99,Monitor

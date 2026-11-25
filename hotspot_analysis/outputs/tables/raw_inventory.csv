@@ -1,0 +1,9 @@
+Dataset,File,Rows,Columns
+btp_2018_2020,btp_station_2018_2020.csv,45,17
+btp_2021_2022,btp_station_2020_2022.csv,45,12
+btp_2023,btp_station_2023.csv,63,8
+btp_2024,btp_station_2024.csv,65,6
+btp_2025,btp_station_2025.csv,68,6
+city_annual,blr_crashes_2007_2025.csv,19,5
+ka_districts,ka_district_2020_2023.csv,39,10
+india_cities,india_large_cities_2024.csv,51,14

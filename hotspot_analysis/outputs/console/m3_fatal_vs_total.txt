@@ -1,0 +1,11 @@
+Pearson r (total vs fatal, 2023-25 stations) = 0.92, p = 1.24e-22
+Fit: Fatal = 0.198 x Total + -6.82
+
+Deadlier than expected:
+         Station  Zone  Total  Fatal  Fatality_Rate_pct  Excess_Fatal
+   Int. Airport North    618    161               26.1          45.5
+      Yalahanka North    735    168               22.9          29.3
+     Chikkajala North    491    116               23.6          25.6
+        Hennuru North    318     77               24.2          20.9
+     Whitefield  East    507    114               22.5          20.5
+Electronic City South    552    120               21.7          17.6

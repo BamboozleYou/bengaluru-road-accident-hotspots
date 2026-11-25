@@ -1,0 +1,4 @@
+Stations active 2023-25: 53
+Top 10 stations' share of crashes: 40.1%
+Top 20% (11 stations) share: 43.3%
+Gini coefficient of crashes across stations: 0.347

@@ -1,0 +1,7 @@
+Rule,Violations
+Negative counts,0
+Fatal + Non_Fatal != Total,0
+Killed < Fatal (impossible),0
+Total = 0 (empty station),0
+Fatal > Total,0
+Year outside 2018-2025,0

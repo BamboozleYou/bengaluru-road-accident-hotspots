@@ -1,0 +1,12 @@
+      District  Crashes  Deaths  Deaths_per_100
+Bengaluru City   4974.0   915.0            18.4
+      Tumakuru   2601.0   783.0            30.1
+Bengaluru Dist   2451.0   694.0            28.3
+        Mandya   2160.0   515.0            23.8
+        Hassan   2138.0   502.0            23.5
+ Belagavi Dist   2086.0   800.0            38.4
+   Chitradurga   1750.0   472.0            27.0
+   Mysuru Dist   1736.0   472.0            27.2
+
+Bengaluru City share of Karnataka crashes 2023: 11.5%
+Bengaluru deaths per 100 crashes: 18.4 vs state median 27.5

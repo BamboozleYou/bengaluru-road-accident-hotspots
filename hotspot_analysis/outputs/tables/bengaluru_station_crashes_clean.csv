@@ -1,0 +1,372 @@
+Year,Period,Zone,Sub_division,Station,Station_raw,Fatal,Killed,Non_Fatal,Injured,Total,Fatality_Rate_pct,Killed_per_100,Injured_per_crash,Source_file
+2018,Pre-COVID,East,Whitefield,Airport,Airport,24,26,85,77,109,22.02,23.85,0.706,btp_station_2018_2020.csv
+2018,Pre-COVID,East,East,Banasawadi,Banasawadi,21,21,108,133,129,16.28,16.28,1.031,btp_station_2018_2020.csv
+2018,Pre-COVID,East,East,Halasooru,Ulsoor,12,12,69,67,81,14.81,14.81,0.827,btp_station_2018_2020.csv
+2018,Pre-COVID,East,East,Indiranagar,Indiranagar,11,11,63,60,74,14.86,14.86,0.811,btp_station_2018_2020.csv
+2018,Pre-COVID,East,East,K G Halli,K G Halli,4,4,19,24,23,17.39,17.39,1.043,btp_station_2018_2020.csv
+2018,Pre-COVID,East,Whitefield,K R Puram,K.R.Pura,42,43,241,221,283,14.84,15.19,0.781,btp_station_2018_2020.csv
+2018,Pre-COVID,East,East,Pulikeshinagar,F.Town,5,5,16,13,21,23.81,23.81,0.619,btp_station_2018_2020.csv
+2018,Pre-COVID,East,East,Shivajinagar,Shivajinagar,2,2,23,23,25,8.0,8.0,0.92,btp_station_2018_2020.csv
+2018,Pre-COVID,East,Whitefield,Whitefield,White Field,24,24,150,164,174,13.79,13.79,0.943,btp_station_2018_2020.csv
+2018,Pre-COVID,North,North East,Chikkajala,Chikjala,38,39,114,151,152,25.0,25.66,0.993,btp_station_2018_2020.csv
+2018,Pre-COVID,North,,Devanahalli,Devanahalli,39,45,122,189,161,24.22,27.95,1.174,btp_station_2018_2020.csv
+2018,Pre-COVID,North,North East,Hebbala,Hebbala,32,33,106,113,138,23.19,23.91,0.819,btp_station_2018_2020.csv
+2018,Pre-COVID,North,North,Jalahalli,Jalahalli,21,21,153,158,174,12.07,12.07,0.908,btp_station_2018_2020.csv
+2018,Pre-COVID,North,North,Malleshwaram,Malleswaram,5,5,96,85,101,4.95,4.95,0.842,btp_station_2018_2020.csv
+2018,Pre-COVID,North,North,Peenya,Peenya,23,23,204,213,227,10.13,10.13,0.938,btp_station_2018_2020.csv
+2018,Pre-COVID,North,North East,R T Nagar,RT Nagar,7,8,87,81,94,7.45,8.51,0.862,btp_station_2018_2020.csv
+2018,Pre-COVID,North,North,Rajajinagar,Rajajinagar,14,14,57,66,71,19.72,19.72,0.93,btp_station_2018_2020.csv
+2018,Pre-COVID,North,North East,Yalahanka,Yelahanka,46,48,175,189,221,20.81,21.72,0.855,btp_station_2018_2020.csv
+2018,Pre-COVID,North,North,Yashawanthapura,Y.Pura,20,20,131,130,151,13.25,13.25,0.861,btp_station_2018_2020.csv
+2018,Pre-COVID,South,South East,Adugodi,Adugodi,3,3,47,53,50,6.0,6.0,1.06,btp_station_2018_2020.csv
+2018,Pre-COVID,South,South,Banashankari,Banashankari,8,8,92,83,100,8.0,8.0,0.83,btp_station_2018_2020.csv
+2018,Pre-COVID,South,South,Basavanagudi,Basavanagudi,3,3,67,60,70,4.29,4.29,0.857,btp_station_2018_2020.csv
+2018,Pre-COVID,South,HSR Layout,Electronic City,Electronic City,27,29,133,115,160,16.88,18.12,0.719,btp_station_2018_2020.csv
+2018,Pre-COVID,South,HSR Layout,HSR Layout,HSR Layout,17,17,83,98,100,17.0,17.0,0.98,btp_station_2018_2020.csv
+2018,Pre-COVID,South,South East,Hulimavu,HuliMavu,30,33,106,118,136,22.06,24.26,0.868,btp_station_2018_2020.csv
+2018,Pre-COVID,South,South,Jayanagar,Jayanagar,9,9,72,71,81,11.11,11.11,0.877,btp_station_2018_2020.csv
+2018,Pre-COVID,South,South,K S Layout,K.Swamy Lyt.,33,35,157,141,190,17.37,18.42,0.742,btp_station_2018_2020.csv
+2018,Pre-COVID,South,South East,Madivala,Madivala,18,18,64,69,82,21.95,21.95,0.841,btp_station_2018_2020.csv
+2018,Pre-COVID,South,South East,Micolayout,Mico layout,6,6,58,58,64,9.38,9.38,0.906,btp_station_2018_2020.csv
+2018,Pre-COVID,West,Central,Ashokanagar,Ashokanagar,4,4,51,55,55,7.27,7.27,1.0,btp_station_2018_2020.csv
+2018,Pre-COVID,West,West,Bytarayanapura,B.Pura,17,18,100,104,117,14.53,15.38,0.889,btp_station_2018_2020.csv
+2018,Pre-COVID,West,West,Chamarajpet,Chamarajapet,4,4,38,38,42,9.52,9.52,0.905,btp_station_2018_2020.csv
+2018,Pre-COVID,West,West,City Market,City Market,2,2,18,17,20,10.0,10.0,0.85,btp_station_2018_2020.csv
+2018,Pre-COVID,West,Central,Cubbon Park,Cubbon Park,2,2,52,53,54,3.7,3.7,0.981,btp_station_2018_2020.csv
+2018,Pre-COVID,West,Central,H.Grounds,H.Grounds,2,2,58,51,60,3.33,3.33,0.85,btp_station_2018_2020.csv
+2018,Pre-COVID,West,Vijayanagar,Kamakshipalya,Kamakshipalya,22,22,187,202,209,10.53,10.53,0.967,btp_station_2018_2020.csv
+2018,Pre-COVID,West,West,Kengeri,Kengeri,24,25,137,198,161,14.91,15.53,1.23,btp_station_2018_2020.csv
+2018,Pre-COVID,West,Vijayanagar,Magadi Road,Magadi Road,1,1,34,31,35,2.86,2.86,0.886,btp_station_2018_2020.csv
+2018,Pre-COVID,West,Central,S.S.Nagar,S.S.Nagar,8,8,78,74,86,9.3,9.3,0.86,btp_station_2018_2020.csv
+2018,Pre-COVID,West,West,Sheshadripuram/Chickpet,Chickpet,10,10,44,48,54,18.52,18.52,0.889,btp_station_2018_2020.csv
+2018,Pre-COVID,West,Central,U.Gate,U.Gate,4,4,43,40,47,8.51,8.51,0.851,btp_station_2018_2020.csv
+2018,Pre-COVID,West,West,Upparpet,Upparpet,6,6,40,41,46,13.04,13.04,0.891,btp_station_2018_2020.csv
+2018,Pre-COVID,West,Vijayanagar,Vijayanagar,Vijayanagar,7,7,124,110,131,5.34,5.34,0.84,btp_station_2018_2020.csv
+2018,Pre-COVID,West,Central,W.Garden,W.Garden,6,6,46,44,52,11.54,11.54,0.846,btp_station_2018_2020.csv
+2019,Pre-COVID,East,Whitefield,Airport,Airport,16,16,68,59,84,19.05,19.05,0.702,btp_station_2018_2020.csv
+2019,Pre-COVID,East,East,Banasawadi,Banasawadi,19,19,110,106,129,14.73,14.73,0.822,btp_station_2018_2020.csv
+2019,Pre-COVID,East,East,Halasooru,Ulsoor,14,15,88,84,102,13.73,14.71,0.824,btp_station_2018_2020.csv
+2019,Pre-COVID,East,East,Indiranagar,Indiranagar,14,14,94,92,108,12.96,12.96,0.852,btp_station_2018_2020.csv
+2019,Pre-COVID,East,East,K G Halli,K G Halli,7,7,22,21,29,24.14,24.14,0.724,btp_station_2018_2020.csv
+2019,Pre-COVID,East,Whitefield,K R Puram,K.R.Pura,49,50,220,230,269,18.22,18.59,0.855,btp_station_2018_2020.csv
+2019,Pre-COVID,East,East,Pulikeshinagar,F.Town,10,10,20,17,30,33.33,33.33,0.567,btp_station_2018_2020.csv
+2019,Pre-COVID,East,East,Shivajinagar,Shivajinagar,7,7,27,22,34,20.59,20.59,0.647,btp_station_2018_2020.csv
+2019,Pre-COVID,East,Whitefield,Whitefield,White Field,48,48,144,167,192,25.0,25.0,0.87,btp_station_2018_2020.csv
+2019,Pre-COVID,North,North East,Chikkajala,Chikjala,41,44,154,191,195,21.03,22.56,0.979,btp_station_2018_2020.csv
+2019,Pre-COVID,North,,Devanahalli,Devanahalli,33,37,127,197,160,20.62,23.12,1.231,btp_station_2018_2020.csv
+2019,Pre-COVID,North,North East,Hebbala,Hebbala,32,33,109,118,141,22.7,23.4,0.837,btp_station_2018_2020.csv
+2019,Pre-COVID,North,North,Jalahalli,Jalahalli,21,22,86,104,107,19.63,20.56,0.972,btp_station_2018_2020.csv
+2019,Pre-COVID,North,North,Malleshwaram,Malleswaram,7,7,83,111,90,7.78,7.78,1.233,btp_station_2018_2020.csv
+2019,Pre-COVID,North,North,Peenya,Peenya,33,34,183,185,216,15.28,15.74,0.856,btp_station_2018_2020.csv
+2019,Pre-COVID,North,North East,R T Nagar,RT Nagar,11,12,63,56,74,14.86,16.22,0.757,btp_station_2018_2020.csv
+2019,Pre-COVID,North,North,Rajajinagar,Rajajinagar,10,10,45,51,55,18.18,18.18,0.927,btp_station_2018_2020.csv
+2019,Pre-COVID,North,North East,Yalahanka,Yelahanka,44,44,216,287,260,16.92,16.92,1.104,btp_station_2018_2020.csv
+2019,Pre-COVID,North,North,Yashawanthapura,Y.Pura,17,19,115,113,132,12.88,14.39,0.856,btp_station_2018_2020.csv
+2019,Pre-COVID,South,South East,Adugodi,Adugodi,6,6,56,55,62,9.68,9.68,0.887,btp_station_2018_2020.csv
+2019,Pre-COVID,South,South,Banashankari,Banashankari,7,7,96,98,103,6.8,6.8,0.951,btp_station_2018_2020.csv
+2019,Pre-COVID,South,South,Basavanagudi,Basavanagudi,6,6,54,56,60,10.0,10.0,0.933,btp_station_2018_2020.csv
+2019,Pre-COVID,South,HSR Layout,Electronic City,Electronic City,32,33,138,122,170,18.82,19.41,0.718,btp_station_2018_2020.csv
+2019,Pre-COVID,South,HSR Layout,HSR Layout,HSR Layout,25,25,81,109,106,23.58,23.58,1.028,btp_station_2018_2020.csv
+2019,Pre-COVID,South,South East,Hulimavu,HuliMavu,15,15,108,104,123,12.2,12.2,0.846,btp_station_2018_2020.csv
+2019,Pre-COVID,South,South,Jayanagar,Jayanagar,16,16,61,63,77,20.78,20.78,0.818,btp_station_2018_2020.csv
+2019,Pre-COVID,South,South,K S Layout,K.Swamy Lyt.,26,28,166,168,192,13.54,14.58,0.875,btp_station_2018_2020.csv
+2019,Pre-COVID,South,South East,Madivala,Madivala,17,18,67,65,84,20.24,21.43,0.774,btp_station_2018_2020.csv
+2019,Pre-COVID,South,South East,Micolayout,Mico layout,12,12,72,73,84,14.29,14.29,0.869,btp_station_2018_2020.csv
+2019,Pre-COVID,West,Central,Ashokanagar,Ashokanagar,6,6,58,55,64,9.38,9.38,0.859,btp_station_2018_2020.csv
+2019,Pre-COVID,West,West,Bytarayanapura,B.Pura,18,18,108,101,126,14.29,14.29,0.802,btp_station_2018_2020.csv
+2019,Pre-COVID,West,West,Chamarajpet,Chamarajapet,7,7,34,37,41,17.07,17.07,0.902,btp_station_2018_2020.csv
+2019,Pre-COVID,West,West,City Market,City Market,3,3,17,16,20,15.0,15.0,0.8,btp_station_2018_2020.csv
+2019,Pre-COVID,West,Central,Cubbon Park,Cubbon Park,5,5,46,56,51,9.8,9.8,1.098,btp_station_2018_2020.csv
+2019,Pre-COVID,West,Central,H.Grounds,H.Grounds,5,5,48,54,53,9.43,9.43,1.019,btp_station_2018_2020.csv
+2019,Pre-COVID,West,Vijayanagar,Kamakshipalya,Kamakshipalya,25,27,194,207,219,11.42,12.33,0.945,btp_station_2018_2020.csv
+2019,Pre-COVID,West,West,Kengeri,Kengeri,26,27,145,178,171,15.2,15.79,1.041,btp_station_2018_2020.csv
+2019,Pre-COVID,West,Vijayanagar,Magadi Road,Magadi Road,6,6,41,49,47,12.77,12.77,1.043,btp_station_2018_2020.csv
+2019,Pre-COVID,West,Central,S.S.Nagar,S.S.Nagar,6,6,52,54,58,10.34,10.34,0.931,btp_station_2018_2020.csv
+2019,Pre-COVID,West,West,Sheshadripuram/Chickpet,Chickpet,12,12,58,62,70,17.14,17.14,0.886,btp_station_2018_2020.csv
+2019,Pre-COVID,West,Central,U.Gate,U.Gate,2,2,51,49,53,3.77,3.77,0.925,btp_station_2018_2020.csv
+2019,Pre-COVID,West,West,Upparpet,Upparpet,10,10,37,37,47,21.28,21.28,0.787,btp_station_2018_2020.csv
+2019,Pre-COVID,West,Vijayanagar,Vijayanagar,Vijayanagar,9,9,113,111,122,7.38,7.38,0.91,btp_station_2018_2020.csv
+2019,Pre-COVID,West,Central,W.Garden,W.Garden,11,11,63,60,74,14.86,14.86,0.811,btp_station_2018_2020.csv
+2020,COVID,East,Whitefield,Airport,Airport,19,19,45,40,64,29.69,29.69,0.625,btp_station_2018_2020.csv
+2020,COVID,East,East,Banasawadi,Banasawadi,15,16,76,68,91,16.48,17.58,0.747,btp_station_2018_2020.csv
+2020,COVID,East,East,Halasooru,Ulsoor,14,14,37,41,51,27.45,27.45,0.804,btp_station_2018_2020.csv
+2020,COVID,East,East,Indiranagar,Indiranagar,9,9,40,45,49,18.37,18.37,0.918,btp_station_2018_2020.csv
+2020,COVID,East,East,K G Halli,K G Halli,3,3,17,22,20,15.0,15.0,1.1,btp_station_2018_2020.csv
+2020,COVID,East,Whitefield,K R Puram,K.R.Pura,48,50,136,129,184,26.09,27.17,0.701,btp_station_2018_2020.csv
+2020,COVID,East,East,Pulikeshinagar,F.Town,8,8,11,9,19,42.11,42.11,0.474,btp_station_2018_2020.csv
+2020,COVID,East,East,Shivajinagar,Shivajinagar,1,1,14,10,15,6.67,6.67,0.667,btp_station_2018_2020.csv
+2020,COVID,East,Whitefield,Whitefield,White Field,21,22,92,99,113,18.58,19.47,0.876,btp_station_2018_2020.csv
+2020,COVID,North,North East,Chikkajala,Chikjala,30,31,152,172,182,16.48,17.03,0.945,btp_station_2018_2020.csv
+2020,COVID,North,,Devanahalli,Devanahalli,25,27,88,133,113,22.12,23.89,1.177,btp_station_2018_2020.csv
+2020,COVID,North,North East,Hebbala,Hebbala,28,28,81,99,109,25.69,25.69,0.908,btp_station_2018_2020.csv
+2020,COVID,North,North,Jalahalli,Jalahalli,19,20,53,63,72,26.39,27.78,0.875,btp_station_2018_2020.csv
+2020,COVID,North,North,Malleshwaram,Malleswaram,8,8,37,34,45,17.78,17.78,0.756,btp_station_2018_2020.csv
+2020,COVID,North,North,Peenya,Peenya,16,16,110,116,126,12.7,12.7,0.921,btp_station_2018_2020.csv
+2020,COVID,North,North East,R T Nagar,RT Nagar,9,10,50,41,59,15.25,16.95,0.695,btp_station_2018_2020.csv
+2020,COVID,North,North,Rajajinagar,Rajajinagar,12,12,36,44,48,25.0,25.0,0.917,btp_station_2018_2020.csv
+2020,COVID,North,North East,Yalahanka,Yelahanka,40,45,155,169,195,20.51,23.08,0.867,btp_station_2018_2020.csv
+2020,COVID,North,North,Yashawanthapura,Y.Pura,20,20,85,84,105,19.05,19.05,0.8,btp_station_2018_2020.csv
+2020,COVID,South,South East,Adugodi,Adugodi,2,2,27,30,29,6.9,6.9,1.034,btp_station_2018_2020.csv
+2020,COVID,South,South,Banashankari,Banashankari,12,12,55,54,67,17.91,17.91,0.806,btp_station_2018_2020.csv
+2020,COVID,South,South,Basavanagudi,Basavanagudi,6,6,46,42,52,11.54,11.54,0.808,btp_station_2018_2020.csv
+2020,COVID,South,HSR Layout,Electronic City,Electronic City,31,31,124,109,155,20.0,20.0,0.703,btp_station_2018_2020.csv
+2020,COVID,South,HSR Layout,HSR Layout,HSR Layout,15,16,60,86,75,20.0,21.33,1.147,btp_station_2018_2020.csv
+2020,COVID,South,South East,Hulimavu,HuliMavu,16,16,64,74,80,20.0,20.0,0.925,btp_station_2018_2020.csv
+2020,COVID,South,South,Jayanagar,Jayanagar,15,15,39,46,54,27.78,27.78,0.852,btp_station_2018_2020.csv
+2020,COVID,South,South,K S Layout,K.Swamy Lyt.,37,39,122,130,159,23.27,24.53,0.818,btp_station_2018_2020.csv
+2020,COVID,South,South East,Madivala,Madivala,11,11,34,35,45,24.44,24.44,0.778,btp_station_2018_2020.csv
+2020,COVID,South,South East,Micolayout,Mico layout,10,10,51,42,61,16.39,16.39,0.689,btp_station_2018_2020.csv
+2020,COVID,West,Central,Ashokanagar,Ashokanagar,5,7,35,37,40,12.5,17.5,0.925,btp_station_2018_2020.csv
+2020,COVID,West,West,Bytarayanapura,B.Pura,19,20,87,68,106,17.92,18.87,0.642,btp_station_2018_2020.csv
+2020,COVID,West,West,Chamarajpet,Chamarajapet,6,6,23,25,29,20.69,20.69,0.862,btp_station_2018_2020.csv
+2020,COVID,West,West,City Market,City Market,3,3,6,6,9,33.33,33.33,0.667,btp_station_2018_2020.csv
+2020,COVID,West,Central,Cubbon Park,Cubbon Park,2,2,24,28,26,7.69,7.69,1.077,btp_station_2018_2020.csv
+2020,COVID,West,Central,H.Grounds,H.Grounds,6,6,39,34,45,13.33,13.33,0.756,btp_station_2018_2020.csv
+2020,COVID,West,Vijayanagar,Kamakshipalya,Kamakshipalya,24,26,135,154,159,15.09,16.35,0.969,btp_station_2018_2020.csv
+2020,COVID,West,West,Kengeri,Kengeri,22,24,64,88,86,25.58,27.91,1.023,btp_station_2018_2020.csv
+2020,COVID,West,Vijayanagar,Magadi Road,Magadi Road,4,4,21,18,25,16.0,16.0,0.72,btp_station_2018_2020.csv
+2020,COVID,West,Central,S.S.Nagar,S.S.Nagar,8,8,51,61,59,13.56,13.56,1.034,btp_station_2018_2020.csv
+2020,COVID,West,West,Sheshadripuram/Chickpet,Chickpet,6,6,30,28,36,16.67,16.67,0.778,btp_station_2018_2020.csv
+2020,COVID,West,Central,U.Gate,U.Gate,4,5,29,27,33,12.12,15.15,0.818,btp_station_2018_2020.csv
+2020,COVID,West,West,Upparpet,Upparpet,2,2,15,15,17,11.76,11.76,0.882,btp_station_2018_2020.csv
+2020,COVID,West,Vijayanagar,Vijayanagar,Vijayanagar,8,8,84,76,92,8.7,8.7,0.826,btp_station_2018_2020.csv
+2020,COVID,West,Central,W.Garden,W.Garden,3,3,34,29,37,8.11,8.11,0.784,btp_station_2018_2020.csv
+2021,COVID,East,Whitefield,Airport,Airport,34,35,109,113,143,23.78,24.48,0.79,btp_station_2020_2022.csv
+2021,COVID,East,East,Banasawadi,Banasawadi,20,21,79,81,99,20.2,21.21,0.818,btp_station_2020_2022.csv
+2021,COVID,East,East,Halasooru,Ulsoor,19,19,28,35,47,40.43,40.43,0.745,btp_station_2020_2022.csv
+2021,COVID,East,East,Indiranagar,Indiranagar,5,5,27,28,32,15.62,15.62,0.875,btp_station_2020_2022.csv
+2021,COVID,East,East,K G Halli,K G Halli,5,5,17,18,22,22.73,22.73,0.818,btp_station_2020_2022.csv
+2021,COVID,East,Whitefield,K R Puram,K.R.Pura,17,18,47,48,64,26.56,28.12,0.75,btp_station_2020_2022.csv
+2021,COVID,East,East,Pulikeshinagar,F.Town,10,10,9,7,19,52.63,52.63,0.368,btp_station_2020_2022.csv
+2021,COVID,East,East,Shivajinagar,Shivajinagar,3,3,8,5,11,27.27,27.27,0.455,btp_station_2020_2022.csv
+2021,COVID,East,Whitefield,Whitefield,White Field,24,24,67,83,91,26.37,26.37,0.912,btp_station_2020_2022.csv
+2021,COVID,North,North East,Chikkajala,Chikjala,32,40,157,191,189,16.93,21.16,1.011,btp_station_2020_2022.csv
+2021,COVID,North,,Devanahalli,Devanahalli,23,24,145,209,168,13.69,14.29,1.244,btp_station_2020_2022.csv
+2021,COVID,North,North East,Hebbala,Hebbala,18,18,97,99,115,15.65,15.65,0.861,btp_station_2020_2022.csv
+2021,COVID,North,North,Jalahalli,Jalahalli,22,23,68,80,90,24.44,25.56,0.889,btp_station_2020_2022.csv
+2021,COVID,North,North,Malleshwaram,Malleswaram,6,6,30,32,36,16.67,16.67,0.889,btp_station_2020_2022.csv
+2021,COVID,North,North,Peenya,Peenya,22,22,103,113,125,17.6,17.6,0.904,btp_station_2020_2022.csv
+2021,COVID,North,North East,R T Nagar,RT Nagar,10,10,55,50,65,15.38,15.38,0.769,btp_station_2020_2022.csv
+2021,COVID,North,North,Rajajinagar,Rajajinagar,14,14,52,58,66,21.21,21.21,0.879,btp_station_2020_2022.csv
+2021,COVID,North,North East,Yalahanka,Yelahanka,48,52,124,151,172,27.91,30.23,0.878,btp_station_2020_2022.csv
+2021,COVID,North,North,Yashawanthapura,Y.Pura,13,14,66,59,79,16.46,17.72,0.747,btp_station_2020_2022.csv
+2021,COVID,South,South East,Adugodi,Adugodi,2,8,17,20,19,10.53,42.11,1.053,btp_station_2020_2022.csv
+2021,COVID,South,South,Banashankari,Banashankari,13,13,57,58,70,18.57,18.57,0.829,btp_station_2020_2022.csv
+2021,COVID,South,South,Basavanagudi,Basavanagudi,5,5,43,31,48,10.42,10.42,0.646,btp_station_2020_2022.csv
+2021,COVID,South,HSR Layout,Electronic City,Electronic City,27,30,102,116,129,20.93,23.26,0.899,btp_station_2020_2022.csv
+2021,COVID,South,HSR Layout,HSR Layout,HSR Layout,15,15,41,49,56,26.79,26.79,0.875,btp_station_2020_2022.csv
+2021,COVID,South,South East,Hulimavu,HuliMavu,6,6,68,71,74,8.11,8.11,0.959,btp_station_2020_2022.csv
+2021,COVID,South,South,Jayanagar,Jayanagar,10,10,50,55,60,16.67,16.67,0.917,btp_station_2020_2022.csv
+2021,COVID,South,South,K S Layout,K.Swamy Lyt.,45,48,95,129,140,32.14,34.29,0.921,btp_station_2020_2022.csv
+2021,COVID,South,South East,Madivala,Madivala,8,8,46,51,54,14.81,14.81,0.944,btp_station_2020_2022.csv
+2021,COVID,South,South East,Micolayout,Mico layout,9,9,61,60,70,12.86,12.86,0.857,btp_station_2020_2022.csv
+2021,COVID,West,Central,Ashokanagar,Ashokanagar,5,5,37,48,42,11.9,11.9,1.143,btp_station_2020_2022.csv
+2021,COVID,West,West,Bytarayanapura,B.Pura,21,21,100,90,121,17.36,17.36,0.744,btp_station_2020_2022.csv
+2021,COVID,West,West,Chamarajpet,Chamarajapet,6,6,22,24,28,21.43,21.43,0.857,btp_station_2020_2022.csv
+2021,COVID,West,West,City Market,City Market,2,2,5,4,7,28.57,28.57,0.571,btp_station_2020_2022.csv
+2021,COVID,West,Central,Cubbon Park,Cubbon Park,4,4,34,35,38,10.53,10.53,0.921,btp_station_2020_2022.csv
+2021,COVID,West,Central,H.Grounds,H.Grounds,2,2,36,38,38,5.26,5.26,1.0,btp_station_2020_2022.csv
+2021,COVID,West,Vijayanagar,Kamakshipalya,Kamakshipalya,33,34,124,117,157,21.02,21.66,0.745,btp_station_2020_2022.csv
+2021,COVID,West,West,Kengeri,Kengeri,22,24,85,82,107,20.56,22.43,0.766,btp_station_2020_2022.csv
+2021,COVID,West,Vijayanagar,Magadi Road,Magadi Road,4,4,24,23,28,14.29,14.29,0.821,btp_station_2020_2022.csv
+2021,COVID,West,Central,S.S.Nagar,S.S.Nagar,4,4,60,51,64,6.25,6.25,0.797,btp_station_2020_2022.csv
+2021,COVID,West,West,Sheshadripuram/Chickpet,Chickpet,6,6,24,21,30,20.0,20.0,0.7,btp_station_2020_2022.csv
+2021,COVID,West,Central,U.Gate,U.Gate,3,3,22,26,25,12.0,12.0,1.04,btp_station_2020_2022.csv
+2021,COVID,West,West,Upparpet,Upparpet,4,4,17,18,21,19.05,19.05,0.857,btp_station_2020_2022.csv
+2021,COVID,West,Vijayanagar,Vijayanagar,Vijayanagar,8,8,86,96,94,8.51,8.51,1.021,btp_station_2020_2022.csv
+2021,COVID,West,Central,W.Garden,W.Garden,9,9,49,55,58,15.52,15.52,0.948,btp_station_2020_2022.csv
+2022,Post-COVID,East,Whitefield,Airport,Airport,18,18,65,65,83,21.69,21.69,0.783,btp_station_2020_2022.csv
+2022,Post-COVID,East,East,Banasawadi,Banasawadi,22,22,94,118,116,18.97,18.97,1.017,btp_station_2020_2022.csv
+2022,Post-COVID,East,East,Halasooru,Ulsoor,13,14,63,80,76,17.11,18.42,1.053,btp_station_2020_2022.csv
+2022,Post-COVID,East,East,Indiranagar,Indiranagar,13,13,35,40,48,27.08,27.08,0.833,btp_station_2020_2022.csv
+2022,Post-COVID,East,East,K G Halli,K G Halli,7,7,23,24,30,23.33,23.33,0.8,btp_station_2020_2022.csv
+2022,Post-COVID,East,Whitefield,K R Puram,K.R.Pura,39,39,166,191,205,19.02,19.02,0.932,btp_station_2020_2022.csv
+2022,Post-COVID,East,East,Pulikeshinagar,F.Town,4,4,5,5,9,44.44,44.44,0.556,btp_station_2020_2022.csv
+2022,Post-COVID,East,East,Shivajinagar,Shivajinagar,4,4,21,25,25,16.0,16.0,1.0,btp_station_2020_2022.csv
+2022,Post-COVID,East,Whitefield,Whitefield,White Field,39,39,127,127,166,23.49,23.49,0.765,btp_station_2020_2022.csv
+2022,Post-COVID,North,North East,Chikkajala,Chikjala,42,42,132,144,174,24.14,24.14,0.828,btp_station_2020_2022.csv
+2022,Post-COVID,North,,Devanahalli,Devanahalli,30,31,124,164,154,19.48,20.13,1.065,btp_station_2020_2022.csv
+2022,Post-COVID,North,North East,Hebbala,Hebbala,29,30,72,88,101,28.71,29.7,0.871,btp_station_2020_2022.csv
+2022,Post-COVID,North,North,Jalahalli,Jalahalli,15,16,65,75,80,18.75,20.0,0.938,btp_station_2020_2022.csv
+2022,Post-COVID,North,North,Malleshwaram,Malleswaram,6,6,50,45,56,10.71,10.71,0.804,btp_station_2020_2022.csv
+2022,Post-COVID,North,North,Peenya,Peenya,32,33,146,135,178,17.98,18.54,0.758,btp_station_2020_2022.csv
+2022,Post-COVID,North,North East,R T Nagar,RT Nagar,11,11,56,50,67,16.42,16.42,0.746,btp_station_2020_2022.csv
+2022,Post-COVID,North,North,Rajajinagar,Rajajinagar,25,27,76,77,101,24.75,26.73,0.762,btp_station_2020_2022.csv
+2022,Post-COVID,North,North East,Yalahanka,Yelahanka,53,56,151,154,204,25.98,27.45,0.755,btp_station_2020_2022.csv
+2022,Post-COVID,North,North,Yashawanthapura,Y.Pura,13,13,61,55,74,17.57,17.57,0.743,btp_station_2020_2022.csv
+2022,Post-COVID,South,South East,Adugodi,Adugodi,6,6,36,41,42,14.29,14.29,0.976,btp_station_2020_2022.csv
+2022,Post-COVID,South,South,Banashankari,Banashankari,16,17,51,55,67,23.88,25.37,0.821,btp_station_2020_2022.csv
+2022,Post-COVID,South,South,Basavanagudi,Basavanagudi,7,7,78,59,85,8.24,8.24,0.694,btp_station_2020_2022.csv
+2022,Post-COVID,South,HSR Layout,Electronic City,Electronic City,26,26,113,128,139,18.71,18.71,0.921,btp_station_2020_2022.csv
+2022,Post-COVID,South,HSR Layout,HSR Layout,HSR Layout,14,14,50,56,64,21.88,21.88,0.875,btp_station_2020_2022.csv
+2022,Post-COVID,South,South East,Hulimavu,HuliMavu,10,11,103,93,113,8.85,9.73,0.823,btp_station_2020_2022.csv
+2022,Post-COVID,South,South,Jayanagar,Jayanagar,8,8,85,89,93,8.6,8.6,0.957,btp_station_2020_2022.csv
+2022,Post-COVID,South,South,K S Layout,K.Swamy Lyt.,34,36,141,159,175,19.43,20.57,0.909,btp_station_2020_2022.csv
+2022,Post-COVID,South,South East,Madivala,Madivala,13,13,32,30,45,28.89,28.89,0.667,btp_station_2020_2022.csv
+2022,Post-COVID,South,South East,Micolayout,Mico layout,11,11,42,44,53,20.75,20.75,0.83,btp_station_2020_2022.csv
+2022,Post-COVID,West,Central,Ashokanagar,Ashokanagar,4,4,31,29,35,11.43,11.43,0.829,btp_station_2020_2022.csv
+2022,Post-COVID,West,West,Bytarayanapura,B.Pura,39,40,122,110,161,24.22,24.84,0.683,btp_station_2020_2022.csv
+2022,Post-COVID,West,West,Chamarajpet,Chamarajapet,7,7,44,46,51,13.73,13.73,0.902,btp_station_2020_2022.csv
+2022,Post-COVID,West,West,City Market,City Market,3,3,15,14,18,16.67,16.67,0.778,btp_station_2020_2022.csv
+2022,Post-COVID,West,Central,Cubbon Park,Cubbon Park,4,5,33,31,37,10.81,13.51,0.838,btp_station_2020_2022.csv
+2022,Post-COVID,West,Central,H.Grounds,H.Grounds,4,4,45,33,49,8.16,8.16,0.673,btp_station_2020_2022.csv
+2022,Post-COVID,West,Vijayanagar,Kamakshipalya,Kamakshipalya,49,50,151,146,200,24.5,25.0,0.73,btp_station_2020_2022.csv
+2022,Post-COVID,West,West,Kengeri,Kengeri,34,36,87,108,121,28.1,29.75,0.893,btp_station_2020_2022.csv
+2022,Post-COVID,West,Vijayanagar,Magadi Road,Magadi Road,4,4,16,17,20,20.0,20.0,0.85,btp_station_2020_2022.csv
+2022,Post-COVID,West,Central,S.S.Nagar,S.S.Nagar,13,13,55,50,68,19.12,19.12,0.735,btp_station_2020_2022.csv
+2022,Post-COVID,West,West,Sheshadripuram/Chickpet,Chickpet,7,7,33,32,40,17.5,17.5,0.8,btp_station_2020_2022.csv
+2022,Post-COVID,West,Central,U.Gate,U.Gate,5,5,30,27,35,14.29,14.29,0.771,btp_station_2020_2022.csv
+2022,Post-COVID,West,West,Upparpet,Upparpet,3,3,24,25,27,11.11,11.11,0.926,btp_station_2020_2022.csv
+2022,Post-COVID,West,Vijayanagar,Vijayanagar,Vijayanagar,9,9,75,83,84,10.71,10.71,0.988,btp_station_2020_2022.csv
+2022,Post-COVID,West,Central,W.Garden,W.Garden,6,7,48,51,54,11.11,12.96,0.944,btp_station_2020_2022.csv
+2023,Post-COVID,East,Whitefield,Airport,Airport,17,17,80,80,97,17.53,17.53,0.825,btp_station_2023.csv
+2023,Post-COVID,East,East,Banasawadi,Banasawadi,14,15,77,82,91,15.38,16.48,0.901,btp_station_2023.csv
+2023,Post-COVID,East,East,Halasooru,Halasooru,11,11,56,48,67,16.42,16.42,0.716,btp_station_2023.csv
+2023,Post-COVID,East,East,Indiranagar,Indiranagar,12,12,73,62,85,14.12,14.12,0.729,btp_station_2023.csv
+2023,Post-COVID,East,East,K G Halli,K G Halli,6,6,34,39,40,15.0,15.0,0.975,btp_station_2023.csv
+2023,Post-COVID,East,Whitefield,K R Puram,K R Puram,41,42,213,217,254,16.14,16.54,0.854,btp_station_2023.csv
+2023,Post-COVID,East,Whitefield,Mahadevapura,Mahadevapura,11,12,82,72,93,11.83,12.9,0.774,btp_station_2023.csv
+2023,Post-COVID,East,East,Pulikeshinagar,Pulikeshinagar,4,4,23,24,27,14.81,14.81,0.889,btp_station_2023.csv
+2023,Post-COVID,East,East,Shivajinagar,Shivajinagar,6,6,21,19,27,22.22,22.22,0.704,btp_station_2023.csv
+2023,Post-COVID,East,Whitefield,Whitefield,Whitefield,43,44,180,163,223,19.28,19.73,0.731,btp_station_2023.csv
+2023,Post-COVID,North,North East,Chikkajala,Chikkajala,36,39,101,129,137,26.28,28.47,0.942,btp_station_2023.csv
+2023,Post-COVID,North,North East,Hebbala,Hebbala,24,24,120,118,144,16.67,16.67,0.819,btp_station_2023.csv
+2023,Post-COVID,North,North East,Hennuru,Hennuru,23,24,80,84,103,22.33,23.3,0.816,btp_station_2023.csv
+2023,Post-COVID,North,North East,Int. Airport,Int. Aiport,59,61,173,215,232,25.43,26.29,0.927,btp_station_2023.csv
+2023,Post-COVID,North,North,Jalahalli,Jalahalli,28,29,74,84,102,27.45,28.43,0.824,btp_station_2023.csv
+2023,Post-COVID,North,North,Malleshwaram,Malleshwaram,18,18,81,88,99,18.18,18.18,0.889,btp_station_2023.csv
+2023,Post-COVID,North,North,Peenya,Peenya,32,32,160,191,192,16.67,16.67,0.995,btp_station_2023.csv
+2023,Post-COVID,North,North East,R T Nagar,R T Nagar,8,8,74,63,82,9.76,9.76,0.768,btp_station_2023.csv
+2023,Post-COVID,North,North,Rajajinagar,Rajajinagar,16,17,86,82,102,15.69,16.67,0.804,btp_station_2023.csv
+2023,Post-COVID,North,North East,Yalahanka,Yalahanka,58,63,178,222,236,24.58,26.69,0.941,btp_station_2023.csv
+2023,Post-COVID,North,North,Yashawanthapura,Yashawanthapura,21,22,85,82,106,19.81,20.75,0.774,btp_station_2023.csv
+2023,Post-COVID,South,South East,Adugodi,Adugodi,10,10,53,67,63,15.87,15.87,1.063,btp_station_2023.csv
+2023,Post-COVID,South,South,Banashankari,Banashankari,15,15,75,66,90,16.67,16.67,0.733,btp_station_2023.csv
+2023,Post-COVID,South,South,Basavanagudi,Basavanagudi,3,3,99,98,102,2.94,2.94,0.961,btp_station_2023.csv
+2023,Post-COVID,South,HSR Layout,Bellanduru,Bellanduru,9,9,34,34,43,20.93,20.93,0.791,btp_station_2023.csv
+2023,Post-COVID,South,HSR Layout,Electronic City,Electronic City,38,39,158,171,196,19.39,19.9,0.872,btp_station_2023.csv
+2023,Post-COVID,South,HSR Layout,HSR Layout,HSR Layout,16,17,40,56,56,28.57,30.36,1.0,btp_station_2023.csv
+2023,Post-COVID,South,South East,Hulimavu,Hulimavu,16,16,92,117,108,14.81,14.81,1.083,btp_station_2023.csv
+2023,Post-COVID,South,South,Jayanagar,Jayanagar,13,13,77,77,90,14.44,14.44,0.856,btp_station_2023.csv
+2023,Post-COVID,South,South,K S Layout,K S Layout,18,18,136,137,154,11.69,11.69,0.89,btp_station_2023.csv
+2023,Post-COVID,South,South East,Madivala,Madivala,14,14,59,53,73,19.18,19.18,0.726,btp_station_2023.csv
+2023,Post-COVID,South,South East,Micolayout,Micolayout,14,14,74,71,88,15.91,15.91,0.807,btp_station_2023.csv
+2023,Post-COVID,South,South,Thalagattapura,Thalagattapura,22,26,67,69,89,24.72,29.21,0.775,btp_station_2023.csv
+2023,Post-COVID,West,Central,Ashokanagar,Ashokanagar,6,6,32,30,38,15.79,15.79,0.789,btp_station_2023.csv
+2023,Post-COVID,West,West,Bytarayanapura,Bytarayanapura,19,19,163,125,182,10.44,10.44,0.687,btp_station_2023.csv
+2023,Post-COVID,West,South,Chamarajpet,Chamarajpet,4,4,25,22,29,13.79,13.79,0.759,btp_station_2023.csv
+2023,Post-COVID,West,West,City Market,City Market,9,9,23,28,32,28.12,28.12,0.875,btp_station_2023.csv
+2023,Post-COVID,West,Central,Cubbon Park,Cubbon Park,2,2,54,41,56,3.57,3.57,0.732,btp_station_2023.csv
+2023,Post-COVID,West,Central,H.Grounds,H.Grounds,6,6,50,47,56,10.71,10.71,0.839,btp_station_2023.csv
+2023,Post-COVID,West,Vijayanagar,Kamakshipalya,Kamakshipalya,40,41,201,202,241,16.6,17.01,0.838,btp_station_2023.csv
+2023,Post-COVID,West,West,Kengeri,Kengeri,58,59,221,237,279,20.79,21.15,0.849,btp_station_2023.csv
+2023,Post-COVID,West,Vijayanagar,Magadi Road,Magadi Road,7,7,43,42,50,14.0,14.0,0.84,btp_station_2023.csv
+2023,Post-COVID,West,Central,S.S.Nagar,S.S.Nagar,8,8,39,33,47,17.02,17.02,0.702,btp_station_2023.csv
+2023,Post-COVID,West,West,Sheshadripuram/Chickpet,Chickpet,9,10,37,31,46,19.57,21.74,0.674,btp_station_2023.csv
+2023,Post-COVID,West,Central,U.Gate,U.Gate,7,8,47,44,54,12.96,14.81,0.815,btp_station_2023.csv
+2023,Post-COVID,West,West,Upparpet,Upparpet,9,9,20,18,29,31.03,31.03,0.621,btp_station_2023.csv
+2023,Post-COVID,West,Vijayanagar,Vijayanagar,Vijayanagar,16,16,63,66,79,20.25,20.25,0.835,btp_station_2023.csv
+2023,Post-COVID,West,Central,W.Garden,W.Garden,6,6,59,45,65,9.23,9.23,0.692,btp_station_2023.csv
+2024,Post-COVID,East,Whitefield,Airport,Airport,22,,74,,96,22.92,,,btp_station_2024.csv
+2024,Post-COVID,East,East,Banasawadi,Banasawadi,6,,59,,65,9.23,,,btp_station_2024.csv
+2024,Post-COVID,East,East,Halasooru,Halasooru,12,,49,,61,19.67,,,btp_station_2024.csv
+2024,Post-COVID,East,East,Indiranagar,Indiranagar,21,,98,,119,17.65,,,btp_station_2024.csv
+2024,Post-COVID,East,East,K G Halli,K G Halli,7,,47,,54,12.96,,,btp_station_2024.csv
+2024,Post-COVID,East,Whitefield,K R Puram,K R Puram,34,,207,,241,14.11,,,btp_station_2024.csv
+2024,Post-COVID,East,Whitefield,Mahadevapura,Mahadevapura,17,,89,,106,16.04,,,btp_station_2024.csv
+2024,Post-COVID,East,East,Pulikeshinagar,Pulikeshinagar,4,,14,,18,22.22,,,btp_station_2024.csv
+2024,Post-COVID,East,East,Shivajinagar,Shivajinagar,4,,30,,34,11.76,,,btp_station_2024.csv
+2024,Post-COVID,East,Whitefield,Whitefield,Whitefield,44,,145,,189,23.28,,,btp_station_2024.csv
+2024,Post-COVID,North,North,Chikkabanavara,Chikkabanavara,16,,74,,90,17.78,,,btp_station_2024.csv
+2024,Post-COVID,North,North East,Chikkajala,Chikkajala,32,,108,,140,22.86,,,btp_station_2024.csv
+2024,Post-COVID,North,North East,Hebbala,Hebbala,29,,148,,177,16.38,,,btp_station_2024.csv
+2024,Post-COVID,North,North East,Hennuru,Hennuru,32,,95,,127,25.2,,,btp_station_2024.csv
+2024,Post-COVID,North,North East,Int. Airport,Int. Aiport,60,,180,,240,25.0,,,btp_station_2024.csv
+2024,Post-COVID,North,North,Jalahalli,Jalahalli,15,,54,,69,21.74,,,btp_station_2024.csv
+2024,Post-COVID,North,North,Malleshwaram,Malleshwaram,10,,56,,66,15.15,,,btp_station_2024.csv
+2024,Post-COVID,North,North,Peenya,Peenya,26,,111,,137,18.98,,,btp_station_2024.csv
+2024,Post-COVID,North,North East,R T Nagar,R T Nagar,7,,54,,61,11.48,,,btp_station_2024.csv
+2024,Post-COVID,North,North,Rajajinagar,Rajajinagar,11,,88,,99,11.11,,,btp_station_2024.csv
+2024,Post-COVID,North,North East,Yalahanka,Yalahanka,56,,186,,242,23.14,,,btp_station_2024.csv
+2024,Post-COVID,North,North,Yashawanthapura,Yashawanthapura,25,,73,,98,25.51,,,btp_station_2024.csv
+2024,Post-COVID,South,South East,Adugodi,Adugodi,5,,45,,50,10.0,,,btp_station_2024.csv
+2024,Post-COVID,South,South,Banashankari,Banashankari,11,,68,,79,13.92,,,btp_station_2024.csv
+2024,Post-COVID,South,South,Basavanagudi,Basavanagudi,8,,82,,90,8.89,,,btp_station_2024.csv
+2024,Post-COVID,South,HSR Layout,Bellanduru,Bellanduru,14,,43,,57,24.56,,,btp_station_2024.csv
+2024,Post-COVID,South,HSR Layout,Electronic City,Electronic City,42,,136,,178,23.6,,,btp_station_2024.csv
+2024,Post-COVID,South,HSR Layout,HSR Layout,HSR Layout,12,,49,,61,19.67,,,btp_station_2024.csv
+2024,Post-COVID,South,South East,Hulimavu,Hulimavu,10,,61,,71,14.08,,,btp_station_2024.csv
+2024,Post-COVID,South,South,Jayanagar,Jayanagar,12,,73,,85,14.12,,,btp_station_2024.csv
+2024,Post-COVID,South,South,K S Layout,K S Layout,20,,90,,110,18.18,,,btp_station_2024.csv
+2024,Post-COVID,South,South East,Madivala,Madivala,21,,81,,102,20.59,,,btp_station_2024.csv
+2024,Post-COVID,South,South East,Micolayout,Micolayout,23,,73,,96,23.96,,,btp_station_2024.csv
+2024,Post-COVID,South,South,Thalagattapura,Thalagattapura,20,,104,,124,16.13,,,btp_station_2024.csv
+2024,Post-COVID,West,Central,Ashokanagar,Ashokanagar,4,,31,,35,11.43,,,btp_station_2024.csv
+2024,Post-COVID,West,West,Bytarayanapura,Bytarayanapura,19,,127,,146,13.01,,,btp_station_2024.csv
+2024,Post-COVID,West,South,Chamarajpet,Chamarajpet,0,,15,,15,0.0,,,btp_station_2024.csv
+2024,Post-COVID,West,West,City Market,City Market,11,,31,,42,26.19,,,btp_station_2024.csv
+2024,Post-COVID,West,Central,Cubbon Park,Cubbon Park,6,,42,,48,12.5,,,btp_station_2024.csv
+2024,Post-COVID,West,Central,H.Grounds,H.Grounds,7,,48,,55,12.73,,,btp_station_2024.csv
+2024,Post-COVID,West,West,Jnanabharathi,Jnanabharathi,22,,119,,141,15.6,,,btp_station_2024.csv
+2024,Post-COVID,West,Vijayanagar,Kamakshipalya,Kamakshipalya,18,,126,,144,12.5,,,btp_station_2024.csv
+2024,Post-COVID,West,West,Kengeri,Kengeri,31,,146,,177,17.51,,,btp_station_2024.csv
+2024,Post-COVID,West,Vijayanagar,Magadi Road,Magadi Road,4,,36,,40,10.0,,,btp_station_2024.csv
+2024,Post-COVID,West,Central,S.S.Nagar,S.S.Nagar,5,,48,,53,9.43,,,btp_station_2024.csv
+2024,Post-COVID,West,West,Sheshadripuram/Chickpet,Chickpet,8,,33,,41,19.51,,,btp_station_2024.csv
+2024,Post-COVID,West,Central,U.Gate,U.Gate,6,,62,,68,8.82,,,btp_station_2024.csv
+2024,Post-COVID,West,West,Upparpet,Upparpet,11,,35,,46,23.91,,,btp_station_2024.csv
+2024,Post-COVID,West,Vijayanagar,Vijayanagar,Vijayanagar,6,,52,,58,10.34,,,btp_station_2024.csv
+2024,Post-COVID,West,Central,W.Garden,W.Garden,6,,53,,59,10.17,,,btp_station_2024.csv
+2025,Post-COVID,East,Whitefield,Airport,Airport,21,,53,,74,28.38,,,btp_station_2025.csv
+2025,Post-COVID,East,East,Banasawadi,Banasawadi,10,,91,,101,9.9,,,btp_station_2025.csv
+2025,Post-COVID,East,East,Halasooru,Halasooru,8,,35,,43,18.6,,,btp_station_2025.csv
+2025,Post-COVID,East,East,Indiranagar,Indiranagar,24,,74,,98,24.49,,,btp_station_2025.csv
+2025,Post-COVID,East,East,K G Halli,K G Halli,11,,37,,48,22.92,,,btp_station_2025.csv
+2025,Post-COVID,East,Whitefield,K R Puram,K R Puram,34,,233,,267,12.73,,,btp_station_2025.csv
+2025,Post-COVID,East,Whitefield,Mahadevapura,Mahadevapura,24,,105,,129,18.6,,,btp_station_2025.csv
+2025,Post-COVID,East,East,Pulikeshinagar,Pulikeshinagar,10,,9,,19,52.63,,,btp_station_2025.csv
+2025,Post-COVID,East,East,Shivajinagar,Shivajinagar,1,,17,,18,5.56,,,btp_station_2025.csv
+2025,Post-COVID,East,Whitefield,Whitefield,Whitefield,27,,68,,95,28.42,,,btp_station_2025.csv
+2025,Post-COVID,North,North,Chikkabanavara,Chikkabanavara,13,,104,,117,11.11,,,btp_station_2025.csv
+2025,Post-COVID,North,North East,Chikkajala,Chikkajala,48,,166,,214,22.43,,,btp_station_2025.csv
+2025,Post-COVID,North,North East,Hebbala,Hebbala,24,,140,,164,14.63,,,btp_station_2025.csv
+2025,Post-COVID,North,North East,Hennuru,Hennuru,22,,66,,88,25.0,,,btp_station_2025.csv
+2025,Post-COVID,North,North East,Int. Airport,Int. Aiport,42,,104,,146,28.77,,,btp_station_2025.csv
+2025,Post-COVID,North,North,Jalahalli,Jalahalli,8,,48,,56,14.29,,,btp_station_2025.csv
+2025,Post-COVID,North,North,Kodigehalli,Kodigehalli,13,,97,,110,11.82,,,btp_station_2025.csv
+2025,Post-COVID,North,North,Malleshwaram,Malleshwaram,6,,52,,58,10.34,,,btp_station_2025.csv
+2025,Post-COVID,North,North,Peenya,Peenya,19,,148,,167,11.38,,,btp_station_2025.csv
+2025,Post-COVID,North,North East,R T Nagar,R T Nagar,7,,26,,33,21.21,,,btp_station_2025.csv
+2025,Post-COVID,North,North,Rajajinagar,Rajajinagar,12,,79,,91,13.19,,,btp_station_2025.csv
+2025,Post-COVID,North,North East,Yalahanka,Yalahanka,54,,203,,257,21.01,,,btp_station_2025.csv
+2025,Post-COVID,North,North,Yashawanthapura,Yashawanthapura,18,,84,,102,17.65,,,btp_station_2025.csv
+2025,Post-COVID,South,South East,Adugodi,Adugodi,7,,59,,66,10.61,,,btp_station_2025.csv
+2025,Post-COVID,South,South,Banashankari,Banashankari,12,,73,,85,14.12,,,btp_station_2025.csv
+2025,Post-COVID,South,South,Basavanagudi,Basavanagudi,6,,76,,82,7.32,,,btp_station_2025.csv
+2025,Post-COVID,South,HSR Layout,Bellanduru,Bellanduru,11,,65,,76,14.47,,,btp_station_2025.csv
+2025,Post-COVID,South,HSR Layout,Electronic City,Electronic City,40,,138,,178,22.47,,,btp_station_2025.csv
+2025,Post-COVID,South,HSR Layout,HSR Layout,HSR Layout,12,,52,,64,18.75,,,btp_station_2025.csv
+2025,Post-COVID,South,South East,Hulimavu,Hulimavu,24,,66,,90,26.67,,,btp_station_2025.csv
+2025,Post-COVID,South,South,JP Nagar,JP Nagar,3,,40,,43,6.98,,,btp_station_2025.csv
+2025,Post-COVID,South,South,Jayanagar,Jayanagar,11,,55,,66,16.67,,,btp_station_2025.csv
+2025,Post-COVID,South,South,K S Layout,K S Layout,9,,68,,77,11.69,,,btp_station_2025.csv
+2025,Post-COVID,South,South East,Madivala,Madivala,15,,75,,90,16.67,,,btp_station_2025.csv
+2025,Post-COVID,South,South East,Micolayout,Micolayout,15,,57,,72,20.83,,,btp_station_2025.csv
+2025,Post-COVID,South,South,Thalagattapura,Thalagattapura,28,,123,,151,18.54,,,btp_station_2025.csv
+2025,Post-COVID,South,South,VV Puram,VV Puram,1,,18,,19,5.26,,,btp_station_2025.csv
+2025,Post-COVID,West,Central,Ashokanagar,Ashokanagar,14,,26,,40,35.0,,,btp_station_2025.csv
+2025,Post-COVID,West,West,Bytarayanapura,Bytarayanapura,22,,124,,146,15.07,,,btp_station_2025.csv
+2025,Post-COVID,West,West,Chamarajpet,Chamarajpet,4,,13,,17,23.53,,,btp_station_2025.csv
+2025,Post-COVID,West,West,City Market,City Market,3,,28,,31,9.68,,,btp_station_2025.csv
+2025,Post-COVID,West,Central,Cubbon Park,Cubbon Park,0,,50,,50,0.0,,,btp_station_2025.csv
+2025,Post-COVID,West,Central,H.Grounds,H.Grounds,2,,49,,51,3.92,,,btp_station_2025.csv
+2025,Post-COVID,West,West,Jnanabharathi,Jnanabharathi,18,,140,,158,11.39,,,btp_station_2025.csv
+2025,Post-COVID,West,Vijayanagar,Kamakshipalya,Kamakshipalya,23,,170,,193,11.92,,,btp_station_2025.csv
+2025,Post-COVID,West,West,Kengeri,Kengeri,26,,174,,200,13.0,,,btp_station_2025.csv
+2025,Post-COVID,West,Vijayanagar,Magadi Road,Magadi Road,2,,37,,39,5.13,,,btp_station_2025.csv
+2025,Post-COVID,West,Central,S.S.Nagar,S.S.Nagar,4,,58,,62,6.45,,,btp_station_2025.csv
+2025,Post-COVID,West,West,Sheshadripuram/Chickpet,Sheshadripuram/Chickpet,3,,15,,18,16.67,,,btp_station_2025.csv
+2025,Post-COVID,West,Central,U.Gate,U.Gate,5,,62,,67,7.46,,,btp_station_2025.csv
+2025,Post-COVID,West,West,Upparpet,Upparpet,11,,36,,47,23.4,,,btp_station_2025.csv
+2025,Post-COVID,West,Vijayanagar,Vijayanagar,Vijayanagar,12,,65,,77,15.58,,,btp_station_2025.csv
+2025,Post-COVID,West,Central,W.Garden,W.Garden,8,,32,,40,20.0,,,btp_station_2025.csv

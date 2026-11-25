@@ -1,0 +1,8 @@
+Clean station table: (371, 15)
+ Year    Period Zone Sub_division     Station  Fatal  Killed  Non_Fatal  Injured  Total  Fatality_Rate_pct  Killed_per_100  Injured_per_crash
+ 2018 Pre-COVID East   Whitefield     Airport     24      26         85       77    109              22.02           23.85              0.706
+ 2018 Pre-COVID East         East  Banasawadi     21      21        108      133    129              16.28           16.28              1.031
+ 2018 Pre-COVID East         East   Halasooru     12      12         69       67     81              14.81           14.81              0.827
+ 2018 Pre-COVID East         East Indiranagar     11      11         63       60     74              14.86           14.86              0.811
+ 2018 Pre-COVID East         East   K G Halli      4       4         19       24     23              17.39           17.39              1.043
+ 2018 Pre-COVID East   Whitefield   K R Puram     42      43        241      221    283              14.84           15.19              0.781

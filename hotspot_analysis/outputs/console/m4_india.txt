@@ -1,0 +1,11 @@
+      City  2024 Accidents  2024 Killed  2024 Ranking Accidents  2024 Ranking Killed  Killed_per_100_2024
+     Delhi            5657         1551                       1                    1                 27.4
+ Bengaluru            4769          894                       2                    2                 18.7
+  Jabalpur            3928          589                       3                    5                 15.0
+ Hyderabad            3785          301                       4                   25                  8.0
+   Chennai            3762          542                       5                   10                 14.4
+    Indore            3488          290                       6                   27                  8.3
+Mallapuram            3483          316                       7                   21                  9.1
+     Kochi            3167          172                       8                   40                  5.4
+
+Bengaluru: rank 2 for accidents, rank 2 for deaths; 18.7 killed per 100 accidents (median of 50 cities: 28.1)
